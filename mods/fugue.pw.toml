@@ -1,0 +1,13 @@
+name = "Fugue"
+filename = "+Fugue-0.22.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c61eac0a7c0a82071c9093932bd39013a11acc8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7355882
+project-id = 1005815
