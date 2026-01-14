@@ -1,11 +1,61 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
 file = "mods/fugue.pw.toml"
 hash = "01049ff49ed04e4f37d82babf97aed5c61e4fd1103b114c762e9eac1ec91ea3e"
 metafile = true
 
 [[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "49fb6c7b176a6753ac1ffa2039042430d40659ddf0b22f59fec84380f5305276"
+metafile = true
+
+[[files]]
+file = "mods/gnetum.pw.toml"
+hash = "45a1cd557aadf621b6c76f39bc3659785d4a0905423ed0524865bc31c52272cb"
+metafile = true
+
+[[files]]
+file = "mods/lolasm.pw.toml"
+hash = "dfa9635d3ca751b625ccc004a3c78e915954997f741576d58db3c5493286e764"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
+metafile = true
+
+[[files]]
+file = "mods/ntm-extended.pw.toml"
+hash = "d301b752a47647ed1caeca9b79eceec14468a863af92b0711457950a0a830f8e"
+metafile = true
+
+[[files]]
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
+metafile = true
+
+[[files]]
+file = "mods/stellarcore.pw.toml"
+hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "bac5bb4b388e2e2102d0b2bc8fc103b524e41613b3a76a6e97fc8e91609f2257"
+metafile = true
+
+[[files]]
+file = "mods/vintagefix.pw.toml"
+hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
+metafile = true
+
+[[files]]
+file = "mods/xp-orb-clump.pw.toml"
+hash = "4bf4bf8f2a8119733bdd21e3f0aeaa178aba9720e5fef0e4f65ec85e5dcb5884"
 metafile = true
