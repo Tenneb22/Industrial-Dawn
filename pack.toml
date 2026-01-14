@@ -12,4 +12,4 @@ forge = "14.23.5.2864"
 minecraft = "1.12.2"
 
 [options]
-no-internal-hashes = true
+no-internal-hashes = false
