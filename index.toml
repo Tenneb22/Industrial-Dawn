@@ -128,7 +128,3 @@ metafile = true
 file = "mods/xp-orb-clump.pw.toml"
 hash = "4bf4bf8f2a8119733bdd21e3f0aeaa178aba9720e5fef0e4f65ec85e5dcb5884"
 metafile = true
-
-[[files]]
-file = "update.sh"
-hash = "ef382bb473dee1a973dae9e618ac2f188decd1e8c3f99ab4d1dc1a5476fc564a"
