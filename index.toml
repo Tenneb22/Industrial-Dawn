@@ -21,6 +21,11 @@ hash = "45a1cd557aadf621b6c76f39bc3659785d4a0905423ed0524865bc31c52272cb"
 metafile = true
 
 [[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "6ad7cc934e5cfc761dc738a6ec01a8388e645ffa50ad70837c01bc25f345eaed"
+metafile = true
+
+[[files]]
 file = "mods/lolasm.pw.toml"
 hash = "dfa9635d3ca751b625ccc004a3c78e915954997f741576d58db3c5493286e764"
 metafile = true
