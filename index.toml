@@ -3,7 +3,6 @@ hash-format = "sha256"
 [[files]]
 file = "mods/ExRollerCoaster-1.5.1.jar"
 hash = "ccbfa6d2b20f2cb7ac98a5c90b40346d34ea8b1a7d8453fb7773cbdd1442e9e7"
-# source: https://fredtargaryen.github.io/erc.html
 
 [[files]]
 file = "mods/configanytime.pw.toml"
