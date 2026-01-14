@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "instance.cfg"
+hash = "390173fb43931ae361a799c1a820286554741eb01c568571ff2a0eb29daa42f8"
+
+[[files]]
+file = "mmc-pack.json"
+hash = "e3b6457f26bd99975040fd22fae4389f17a578607c26de8f739bf5549c90b971"

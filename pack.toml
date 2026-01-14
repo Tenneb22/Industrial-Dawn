@@ -1,0 +1,13 @@
+name = "Industrial Dawn"
+author = "Tenneb22"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "366d908158ff41c3e25e03fc96c676eb369d607929ac8c56ce1b3bf197f4f019"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"
