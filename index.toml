@@ -2,10 +2,8 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/fugue.pw.toml"
-hash = "01049ff49ed04e4f37d82babf97aed5c61e4fd1103b114c762e9eac1ec91ea3e"
 metafile = true
 
 [[files]]
 file = "mods/scalar-legacy.pw.toml"
-hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
 metafile = true
