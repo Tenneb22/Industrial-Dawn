@@ -5,6 +5,21 @@ file = "mods/ExRollerCoaster-1.5.1.jar"
 hash = "ccbfa6d2b20f2cb7ac98a5c90b40346d34ea8b1a7d8453fb7773cbdd1442e9e7"
 
 [[files]]
+file = "mods/ae2-extended-life.pw.toml"
+hash = "21d6ef9d52551f2adb9aad7752b551312fe417a693a992aee1dd0fbd83cce3d0"
+metafile = true
+
+[[files]]
+file = "mods/alfheim-lighting-engine.pw.toml"
+hash = "5b8e138b7b21ad18dd6ebdbf6cc4b23c2d2137a7253fd968a4030487c5fb9a28"
+metafile = true
+
+[[files]]
+file = "mods/celeritas.pw.toml"
+hash = "f616116ffe4d7adaac7e7cc6d61f894d9b10c6c2a691c4af8e6105a0cf553fe8"
+metafile = true
+
+[[files]]
 file = "mods/configanytime.pw.toml"
 hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
 metafile = true
@@ -30,6 +45,11 @@ hash = "6ad7cc934e5cfc761dc738a6ec01a8388e645ffa50ad70837c01bc25f345eaed"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.pw.toml"
+hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
+metafile = true
+
+[[files]]
 file = "mods/lolasm.pw.toml"
 hash = "dfa9635d3ca751b625ccc004a3c78e915954997f741576d58db3c5493286e764"
 metafile = true
@@ -40,13 +60,33 @@ hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
+file = "mods/modularwarfare-shining.pw.toml"
+hash = "27f9fa59e7f4fedfec5efa71230fb07a23c254a0b2d26c82787c95a7c3907766"
+metafile = true
+
+[[files]]
 file = "mods/ntm-extended.pw.toml"
 hash = "d301b752a47647ed1caeca9b79eceec14468a863af92b0711457950a0a830f8e"
 metafile = true
 
 [[files]]
+file = "mods/paintings.pw.toml"
+hash = "074b5fdf2ac37743bce1e5b562755340cc960db301522f5b374ccf91a508079e"
+metafile = true
+
+[[files]]
+file = "mods/red-core.pw.toml"
+hash = "06969f488405c789e0312c1a09be5e51bda6eab1d7869ab934cb55289aad3860"
+metafile = true
+
+[[files]]
 file = "mods/scalar-legacy.pw.toml"
 hash = "c1fb189ad08a9630c596e8609f90f2a7f7a19eb6a0bfdbb4841bd7c6a477e4fc"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "32f6af6a85906716c472a1187f341977fe80ca07391f5e486f0e80a64864435b"
 metafile = true
 
 [[files]]
@@ -62,6 +102,16 @@ metafile = true
 [[files]]
 file = "mods/vintagefix.pw.toml"
 hash = "21e1e9cb5ed51d3a6905304f1ba12fbecd3a009929a0ee474ceff11c9591b396"
+metafile = true
+
+[[files]]
+file = "mods/xaerolib.pw.toml"
+hash = "1ddf11283def3841f5c060d383594d99b1fa939daa228a9a2376f3a6f39fd87e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "e90cda6592408dd219103025fc1a2470059554368e9fb89001239eb7e39a2556"
 metafile = true
 
 [[files]]

@@ -1,0 +1,9 @@
+name = "Celeritas"
+filename = "celeritas-forge-mc12.2-2.3.0-dev.jar"
+side = "client"
+
+[download]
+url = "https://github.com/kappa-maintainer/Celeritas-auto-build/releases/download/release%2F2.3.0-dev.13-54-g9e892798-20250819T004238/celeritas-forge-mc12.2-2.3.0-dev.jar"
+
+hash-format = "sha256"
+hash = "150add70acc7c2f63ec6b82ca32b66dfacaf96628b549c520d4d4b7407f5bac3"
