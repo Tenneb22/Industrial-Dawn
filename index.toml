@@ -74,11 +74,6 @@ hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
-file = "mods/modularwarfare-ultimate.pw.toml"
-hash = "b7fd81258a20959ec04ad9ff15b3efa5da08edda8a3d42b8c45cb7485cfad6ab"
-metafile = true
-
-[[files]]
 file = "mods/ntm-ce.pw.toml"
 hash = "005716b38f4add301eb8d289549dee8eb22618d6b27f17b3a6845ef827890baa"
 metafile = true
@@ -106,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/stellarcore.pw.toml"
 hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
+metafile = true
+
+[[files]]
+file = "mods/techguns.pw.toml"
+hash = "d730582be01792322be74537304072413451df960fa3bd4e8ea4556ce3ddb536"
 metafile = true
 
 [[files]]
