@@ -25,6 +25,11 @@ hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "d147d561c5b715ba9528cc507fa1f85bfeef89f4da260c1c301f80e0033f0b73"
+metafile = true
+
+[[files]]
 file = "mods/fugue.pw.toml"
 hash = "01049ff49ed04e4f37d82babf97aed5c61e4fd1103b114c762e9eac1ec91ea3e"
 metafile = true
