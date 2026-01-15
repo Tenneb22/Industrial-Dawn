@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntm-ce.pw.toml"
-hash = "98c89836c41d6207caa2c6f7c6049be135b1dad006f9136751619f96360ac381"
+hash = "005716b38f4add301eb8d289549dee8eb22618d6b27f17b3a6845ef827890baa"
 metafile = true
 
 [[files]]
