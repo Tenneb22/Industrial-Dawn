@@ -1,0 +1,13 @@
+name = "ModularWarfare-Ultimate"
+filename = "modularwarfare-2.4.5f-fix2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HDPCPqDy/versions/oq7SsMsP/modularwarfare-2.4.5f-fix2.jar"
+hash-format = "sha512"
+hash = "e096e2308787546d85582b568c5d3c6ce10d6ad224f1d487327935f363126eac195e6483fa4492a703a1fedd058bfd52649ce665cf2124a452de9a6160742815"
+
+[update]
+[update.modrinth]
+mod-id = "HDPCPqDy"
+version = "oq7SsMsP"

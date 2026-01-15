@@ -70,13 +70,13 @@ hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
-file = "mods/modularwarfare.pw.toml"
-hash = "7f18ca6496a86be2fae4052e8b6125596bf9372c35e610f08b5228668a67c669"
+file = "mods/modularwarfare-ultimate.pw.toml"
+hash = "b7fd81258a20959ec04ad9ff15b3efa5da08edda8a3d42b8c45cb7485cfad6ab"
 metafile = true
 
 [[files]]
-file = "mods/ntm-extended.pw.toml"
-hash = "d301b752a47647ed1caeca9b79eceec14468a863af92b0711457950a0a830f8e"
+file = "mods/ntm-ce.pw.toml"
+hash = "98c89836c41d6207caa2c6f7c6049be135b1dad006f9136751619f96360ac381"
 metafile = true
 
 [[files]]
