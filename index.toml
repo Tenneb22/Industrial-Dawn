@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+hash = "ef09575b844751fe0b9add05d237eb2264541c831447dbd51620168d719f2aaf"
+
+[[files]]
 file = "mods/ExRollerCoaster-1.5.1.jar"
 hash = "ccbfa6d2b20f2cb7ac98a5c90b40346d34ea8b1a7d8453fb7773cbdd1442e9e7"
 
