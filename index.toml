@@ -137,3 +137,8 @@ metafile = true
 file = "mods/xp-orb-clump.pw.toml"
 hash = "4bf4bf8f2a8119733bdd21e3f0aeaa178aba9720e5fef0e4f65ec85e5dcb5884"
 metafile = true
+
+[[files]]
+file = "resourcepacks/modernity.pw.toml"
+hash = "631681d3b1ce347884a36d2b0d8a0bd7f0a73c5547edea78fbe8bea513d9f97b"
+metafile = true
