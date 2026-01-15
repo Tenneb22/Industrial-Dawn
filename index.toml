@@ -30,6 +30,11 @@ hash = "d147d561c5b715ba9528cc507fa1f85bfeef89f4da260c1c301f80e0033f0b73"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
 file = "mods/fugue.pw.toml"
 hash = "01049ff49ed04e4f37d82babf97aed5c61e4fd1103b114c762e9eac1ec91ea3e"
 metafile = true
