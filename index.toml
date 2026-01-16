@@ -79,6 +79,11 @@ hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
+file = "mods/modularwarfare.pw.toml"
+hash = "9c677256ee398777b58515bfbe8fadf8010c227dfec192dde55477e27a046648"
+metafile = true
+
+[[files]]
 file = "mods/ntm-ce.pw.toml"
 hash = "005716b38f4add301eb8d289549dee8eb22618d6b27f17b3a6845ef827890baa"
 metafile = true
