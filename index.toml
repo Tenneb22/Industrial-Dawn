@@ -74,6 +74,11 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
+file = "mods/mcgltf.pw.toml"
+hash = "83b961eec06dadfad97d466399049bbab391ef3c2f343b0287e799ac3d8f771a"
+metafile = true
+
+[[files]]
 file = "mods/mixin-booter.pw.toml"
 hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
