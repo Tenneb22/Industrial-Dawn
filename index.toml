@@ -99,6 +99,11 @@ hash = "9c677256ee398777b58515bfbe8fadf8010c227dfec192dde55477e27a046648"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "99e3aef9cdb0bd8189da4cab3955c300f824238edd1a85471ed45208fdb4a8b0"
+metafile = true
+
+[[files]]
 file = "mods/ntm-ce.pw.toml"
 hash = "005716b38f4add301eb8d289549dee8eb22618d6b27f17b3a6845ef827890baa"
 metafile = true
