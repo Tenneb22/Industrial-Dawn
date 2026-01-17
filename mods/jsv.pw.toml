@@ -1,0 +1,13 @@
+name = "JustSleepVote"
+filename = "jsv-1.12.2-1.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "918bc78e5e3aeaf634ec5efad48ea4768aa70b7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3157438
+project-id = 433386

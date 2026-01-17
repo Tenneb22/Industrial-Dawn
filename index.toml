@@ -69,6 +69,11 @@ hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
 metafile = true
 
 [[files]]
+file = "mods/jsv.pw.toml"
+hash = "f66a98abf4e0f9638196a44b0c8edec080a7c25839bf9f949128c9f70a9fd687"
+metafile = true
+
+[[files]]
 file = "mods/lolasm.pw.toml"
 hash = "dfa9635d3ca751b625ccc004a3c78e915954997f741576d58db3c5493286e764"
 metafile = true
