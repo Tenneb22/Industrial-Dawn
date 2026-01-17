@@ -1,0 +1,19 @@
+{
+    "internalName": "balaclava",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "feet": 
+        {
+            "displayName": "Balaclava"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "balaclava",
+        "displayName": "Balaclava - Default"
+      }
+    ]
+}

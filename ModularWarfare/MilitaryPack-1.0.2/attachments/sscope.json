@@ -1,0 +1,16 @@
+{
+  "displayName": "Sniper Scope",
+  "internalName": "sscope",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "sscope",
+      "displayName": "Sniper Scope - Default"
+    }
+  ],
+  "sight": {
+	"scopeType": "default",
+    "customOverlayTexture": "8x",
+    "modeType": "pip"
+  }
+}

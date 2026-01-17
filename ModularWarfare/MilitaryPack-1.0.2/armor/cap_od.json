@@ -1,0 +1,19 @@
+{
+    "internalName": "cap_od",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "Cap Green"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "cap_od",
+        "displayName": "Cap Green - Default"
+      }
+    ]
+}

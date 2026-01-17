@@ -1,0 +1,19 @@
+{
+    "internalName": "pilot",
+    "defense": "0.15",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "Pilot"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "pilot",
+        "displayName": "Pilot - Default"
+      }
+    ]
+}

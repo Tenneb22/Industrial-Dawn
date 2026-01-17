@@ -1,0 +1,19 @@
+{
+    "internalName": "iotv_1",
+    "defense": "0.15",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "legs": 
+        {
+            "displayName": "IOTV-1 Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "iotv",
+        "displayName": "IOTV-1 - Default"
+      }
+    ]
+}

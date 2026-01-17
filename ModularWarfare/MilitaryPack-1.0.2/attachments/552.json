@@ -1,0 +1,15 @@
+{
+  "displayName": "EOTech 552",
+  "internalName": "552",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "552",
+      "displayName": "EOTech 552 - Default"
+    }
+  ],
+  "sight": {
+    "customOverlayTexture": "holo",
+    "modeType": "normal"
+  }
+}

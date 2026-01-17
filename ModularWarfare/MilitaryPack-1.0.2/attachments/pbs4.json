@@ -1,0 +1,15 @@
+{
+  "displayName": "PBS-4",
+  "internalName": "pbs4",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "pbs4",
+      "displayName": "PBS-4 - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

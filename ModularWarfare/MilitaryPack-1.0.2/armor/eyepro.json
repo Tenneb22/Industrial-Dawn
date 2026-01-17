@@ -1,0 +1,19 @@
+{
+    "internalName": "eyepro",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "feet": 
+        {
+            "displayName": "Eye Pro"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "ucp",
+        "displayName": "Eye Pro - Default"
+      }
+    ]
+}

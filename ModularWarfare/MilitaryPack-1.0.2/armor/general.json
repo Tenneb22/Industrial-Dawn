@@ -1,0 +1,19 @@
+{
+    "internalName": "general",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "General Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "general",
+        "displayName": "General - Default"
+      }
+    ]
+}

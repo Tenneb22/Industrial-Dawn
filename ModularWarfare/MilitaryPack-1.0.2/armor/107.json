@@ -1,0 +1,19 @@
+{
+    "internalName": "107",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "107 Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "107",
+        "displayName": "107 - Default"
+      }
+    ]
+}

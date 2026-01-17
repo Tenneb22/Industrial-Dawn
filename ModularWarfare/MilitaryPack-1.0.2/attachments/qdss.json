@@ -1,0 +1,15 @@
+{
+  "displayName": "QDSS NT4",
+  "internalName": "qdss",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "qdss",
+      "displayName": "QDSS NT4 - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

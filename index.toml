@@ -1,6 +1,2834 @@
 hash-format = "sha256"
 
 [[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/ak12ammo.json"
+hash = "6ac3abc4b154ee9a144e55109ebd38c9248ba7bd8c36070f7138a31bc4dfa516"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/ak74mammo.json"
+hash = "cb7392034f8c9e14a39d18d5bb188fbfce60ad2da3073ed2624eb9f4076e53dc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/ak74uammo.json"
+hash = "b5067115e4dff12c39c3091adb98192ac6ebc56c87a7d2d9117ea34ae40558f6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/an94ammo.json"
+hash = "2729cddba3000448f65ef69a8fd29d87e7dd94323752a04d7d028607af103635"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/asvalammo.json"
+hash = "62638d720950481c2b3dd652ef84584c99395b19c0431c47cb44671b787b3937"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/bizonammo.json"
+hash = "de6c71fb1cca3f03acecab792e8bbc53249cfd743200634d0811fba91a18dd6d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/grachammo.json"
+hash = "de61c0d02c490ebed6f0ab91a5b3dd069690cf4e8bcd6febce06e45c5664bb24"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/hk416ammo.json"
+hash = "5c8b34a9fd70becf405453983992a30f1b2dd366456378c51e58b45e926a02b1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/m16a4ammo.json"
+hash = "bfa44751201b5c8b0a0166bb92fde2f7d071b89137a0902e350cdf6bf05e600a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/m240bammo.json"
+hash = "625c6f57e45708d49926951cf13452e40ab14fbefe73279da651517b6d0bc8f0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/m249ammo.json"
+hash = "7c8252ccc3bc1934483448221016fe9f33d6db003317a03771e9469538ebc5f3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/m24ammo.json"
+hash = "f8e6f35acb9841575ddde56621a9541f2f1fcf1a543980e9d3c8a082dfb9ce83"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/m4a1ammo.json"
+hash = "bfe1c0a6fd947d4961186d819f29f9cc74c7933d6c7c03c034f836855f9398c5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/m9ammo.json"
+hash = "7bb07f3f38bbcddaba6c9f31b2863988275d3f7e1b875ffa507c4251b7874865"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/mk14ammo.json"
+hash = "10636e76a540e99bad67c91ad3874ae29dc16c1db13671a6219268fad27ec574"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/mp5ammo.json"
+hash = "5575d62e22695454f64699902555ae73a7c26b951e39ba81c84ed7e329f5d0de"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/pkpammo.json"
+hash = "05acff6b25ed9ae0845d0a417d898be6bf8042b537917fa17e84a4428e49d9b2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/ak12ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/ak74mammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/ak74uammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/an94ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/asvalammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/bizonammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/grachammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/hk416ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/m16a4ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/m240bammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/m249ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/m24ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/m4a1ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/m9ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/mk14ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/mp5ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/pkpammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/rpk74mammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/scarlammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/ssrammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/sv98ammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/svdammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/render/vintorezammo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/rpk74mammo.json"
+hash = "620dd49793d552755fc93adc8ac71156bd81c56bbc66204af23dd83b14308c45"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/scarlammo.json"
+hash = "43fa904b6a15d81ababbdd8fe1e5c7a64e33de6de5a9fc4e1dd737e6061bcad9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/ssrammo.json"
+hash = "804fe6c7d3def5ecc2fb8fe9d0b36d3704fd2d02dcdcbc7881fb7c196c58d474"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/sv98ammo.json"
+hash = "0258995f95fb1b3348354e36eff0007cba9dc1d0790c7467ffa8fff006bfdf92"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/svdammo.json"
+hash = "99b85bc7b1df978355a014c90d8deb116e9a42898b88721dd13a501e93bce10e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/ammo/vintorezammo.json"
+hash = "3cb13eb8dd7057fad743dd1b3936b8a9ae27101c99790a22f1f8efeb43b47c34"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/107.json"
+hash = "a689a43c3449835e2db256461dd5ce38ce0350fa8da9c91787e04b034548f746"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/6b27.json"
+hash = "16c4583cf5aa2f926fc257b47b34b2408477c697249b6fdf0140aad914c3a630"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/6b3.json"
+hash = "3f91a8edd6b6ef053e3233777dd8ebdc6a14e8b3ad5ef3091cfe00ec8a68faa1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/6b33.json"
+hash = "9695b540dc2d10330e03bfc2dce97c1051bc8eb1cd7052645d2977b9b346e5b2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/6b45.json"
+hash = "c90968ada5865aabb4e6e78b0c1ac6956e3365e037654c9b2f690c291e64d87c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/6b45_1.json"
+hash = "8d55d98cb95b36f4ad1684f9c7396c041d1de1d950c3f6bb7b01554eaffd5ff8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/ach.json"
+hash = "770af9a585ede01ed79b3c42175a9077d629aa07c75d99d15089d5b023def73c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/afgan.json"
+hash = "81ea7c225e8c5bfcd686b338c8c73d641af673cb1a5c3c9a033a91f0ef42366d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/avs.json"
+hash = "4477c6065ce8486b5589e618dbdcf2be9af212996e37b4a49cf1c813eaf04324"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/balaclava.json"
+hash = "5c28a01e3c70c15d18ada17311e758b14acdd563ffa6ca977505f52d4d74abc0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/beret.json"
+hash = "0c378d5257ea5e94bf218e420e96cfebbdd5b8d7ef226d57439278d8d908c119"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/cap_od.json"
+hash = "b6cfb45fea657fe14a87ea123c64d03c5733b25f7aacf8b1507bf49e51bb7376"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/cap_tan.json"
+hash = "56ad7575a7745f17635ff0f3520535561f5c903068115d672897fe007e88163c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/eyepro.json"
+hash = "f9d67a38b6516c49d79e24b925c0dc8c149ab04a9f661aab276e94bafabd96a9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/f35.json"
+hash = "a369a595a09063bd27d6e96857ef7bcc84f55bcfdb7694caaaf1a8646739dcfe"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/furazka.json"
+hash = "951a6e5cffeb9f8fa5cd6d4e6f81f69faff0c6446ce9910f4b6613dbebd1f56e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/general.json"
+hash = "78e83a28df9dbba51262ea365df8161c8f82fc3ec57f1a3dd80f260da821a5f6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/ghillie.json"
+hash = "a247b6847ef38579d26ffd23e3bb2df008f0c9a7200b1b552a83e12dfa19acc5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/iotv.json"
+hash = "ad2e2a781130394b1664d7e638a058369dd83d08e71949bbd39176c838d9784b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/iotv_1.json"
+hash = "aa94831f395b60d5b78eb89eca1b8d32b5fdf62a66b0d32b8bae456a57268e5a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/m69ussr.json"
+hash = "7e623151c52557c3fd52e9f36b3a26b3924f2429986220472af18a06c7cc98da"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/pilot.json"
+hash = "5027ce2010c59fe671291b44112ca55793afe51c52f6ab4e4f1cbcb8b6cbb8ff"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/107.render.json"
+hash = "96fb5444041ea16a0d1c59b611de8399b537e9eec296fbd0f109c86d9302ac3e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/6b27.render.json"
+hash = "9f7227afc919c71f9f3bcd69baef27686759ec007d36136aba37282e44de0589"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/6b3.render.json"
+hash = "d5ae63334472213eeba57fb78728d87eb54f50288595cfa3a2e87c0bac358663"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/6b33.render.json"
+hash = "bb11883a77c729d44d8f8bce6662fb287c6ba99dc711de41092d37fc26238308"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/6b45.render.json"
+hash = "c2c32e0bd5ce7fc4814dc5295fef3445351056062cb231e0c831c26e6294564f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/6b45_1.render.json"
+hash = "358574f4c990ea0cd81f80c87b2f6a4e94366612572f728aad75a965fff485e7"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/ach.render.json"
+hash = "db3a5d87e6acf837c943496159617cd54339f1818828e73ea9891df919a10a8a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/afgan.render.json"
+hash = "45d8ca64ca944e70cb4bbde046e2d0b2e4cb5806e2ab3d6f6836fe1ac8527075"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/avs.render.json"
+hash = "ba4a0c05373ccbe4eddda207f920004c2b3bd5b5b8b001bc9a7f41a453bef8f4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/balaclava.render.json"
+hash = "dc2d18f5de065f8f6fd4ac945adf56547beefc6ae524cc2abdcdca156112bd33"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/beret.render.json"
+hash = "c0a26da2d0d1f70a38a9564d1843b3fe7de2a9c6232d1487cfcd24a98e7178b1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/cap_od.render.json"
+hash = "bfcbfd8a28f20eb4650a5b902df93c80fb9fc69943fdacfe3fe61b93f8be6eb2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/cap_tan.render.json"
+hash = "bfcbfd8a28f20eb4650a5b902df93c80fb9fc69943fdacfe3fe61b93f8be6eb2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/eyepro.render.json"
+hash = "e905277588de40f091069945d6020dce225f114ada920ef2c1a56ccc0fb90cb2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/f35.render.json"
+hash = "49923e2ee95af8c198bfef86bcb423d713302b5162a8ad15d2525ac9dee5690a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/furazka.render.json"
+hash = "f5948161adb0a20869ea73bd8c09650f6d35ad8e4d0b84b66d77800182477397"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/general.render.json"
+hash = "79efeff8b5429c3559bfe970e8f27a283417fa807977cd9b678680a12ceb0c45"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/ghillie.render.json"
+hash = "c32b0d471b671a7ea91cb38ce866beaf342ee9ebbf08dbad2342d6ba98de9188"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/iotv.render.json"
+hash = "c640f15ff3d99bb382d66b7a503ff5ceeb4bd86de29f34f700a72e262bcc57a4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/iotv_1.render.json"
+hash = "49281759f41f99e55918ad15e97fdd18b4ec7f0180349a59eec63d12ecf866d3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/m69ussr.render.json"
+hash = "00b46c011db0f16b0b63a09e6ab3c738b02beb377246389438fb7b928d323e57"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/pilot.render.json"
+hash = "6dfe93dfe82b0c3fa81151c3e9791672e505eb221b18f5717b18d890e4c348d5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/tank_hat.render.json"
+hash = "f57117507229e3187f5e34552aff1d354325ed5c5338129ce729df301829c5ee"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/tank_nato.render.json"
+hash = "579ea5f16e4994216f4308e55e699912226d18b79a14c86d4d0a3d53e79f3512"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/ucp_uniform.render.json"
+hash = "7d657cb17fa759ee7a3db07168ccd05affd8886a147462da2d64d72f8f108c99"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/render/uniform.render.json"
+hash = "34a3a4b28c75d99e0573c0b05a19c98527fb24c61f9744068be672882f58279d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/tank_hat.json"
+hash = "5032e7b5de827fbeee8f89f057321ba27c2891a4054eadef73b6b03710697093"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/tank_nato.json"
+hash = "8132670093657a8e2bbd83ea302c8dd407de97ea4a64aebdb70c0bb771566f1d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/ucp_uniform.json"
+hash = "9ff5f90db2b3310150cdd05e13dc9d04d5a7c9f4f0a1b1f4e36fc43207b8e97c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/armor/uniform.json"
+hash = "f8aaae597836a00a1d91a17eace59794bbe77ad994c3fadbd3e08096c0b9813e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/lang/en_US.lang"
+hash = "74ba1912fe60e78f10e1ddbc91476e8d2bfa3910476e5ded3191e33478069dfd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/lang/ru_RU.lang"
+hash = "e050d816f6673d4138b799a68b51760cd9eadbbd51ada45cd2b04b16d2d3e102"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/107.json"
+hash = "4ad1d2df84b8d2fa3dd66351f33b741785e57d94ee74b19f3b719ea86f08d703"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/1p29.json"
+hash = "035b43c52288d63ef5303285a2733030dd634959e66bc1e0e8a289596410465a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/1p87.json"
+hash = "3336a9fe8bfd2fe9d089fbcc70c833038c4e887bceb04aa5710f0d67ed5bf672"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/552.json"
+hash = "a099b65c8bc7ba4a25d5c10614648df8d3e560c85bcb5fd1b323b7602f9c1e5b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/5_45x39.json"
+hash = "6a9249196d10d261ab8e1e63c7d7fe9de269434778dd8eed478ea00d3ae05863"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/5_56x45.json"
+hash = "0fef9e998323ba5d64fa23e7f5166b46cf4d3e2b97d9d16192606709ab387090"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/6b27.json"
+hash = "e1c2a93c714f2262e061299bcb08899b8aac4054831339db65e26ba3f5875bfd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/6b3.json"
+hash = "280b6c880407e2f5452d58fe093caedd8126b5449e235a1aa166f205fbc5bd8f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/6b33.json"
+hash = "280b6c880407e2f5452d58fe093caedd8126b5449e235a1aa166f205fbc5bd8f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/6b45.json"
+hash = "74f90ac5abe521978e23b6d488f854e05a698cab25fa565cf7c012242b90aa21"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/6b45_1.json"
+hash = "78fa4287134d4a824b77a90a549f72a3e7d69195a5d124cf7beda6a8309b0f6b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/762silencer.json"
+hash = "0c09710a4194b452197405290317e69f63b9c1488ff538a30c578eb296c59b3d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/762silencer_usa.json"
+hash = "d8e4738d82f50094613a1a0c1ea00d8cc9f419950a773f5b3c48a77f22dd414e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/7_62x51.json"
+hash = "d0bf0412a99104f929d365b348d311bf02bde6aebcde5677c34ac52fe23bfd27"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/7_62x54.json"
+hash = "7c24271f77090f329cd054d1d9d4552f32116d113cad6e4eccd64fae7c16772d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/8x.json"
+hash = "c9fbe9abfc696020aff7e1e3a661b9332a3779bcb2d07429c520e75a66c89932"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/9mmsilencer.json"
+hash = "1d96b84c4219253f53292c201084c5df87d9bce601ee7b8cbea12aeff7e87ed8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/9mmsilencer_usa.json"
+hash = "e1e4d1e64273f8e0f0ac65bc108c46c312263164c30358fe26581b5a0f2b13ca"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/9x19.json"
+hash = "9b8110f76dda08bcea0fc8593370f3a8d50f710e3210a45bd8b0e690485b583f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/9x39.json"
+hash = "69f918c844de73694d9b6a612a737f896041433414ef0e633395b0cda412f3e6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ach.json"
+hash = "4c38bbba40e4ced91b7495e5346b1741fab2a30de5301ed0fb903ee84da413c1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/acog.json"
+hash = "108bd90485e44c34bfbb0f715b9fef5ce0c76cb1e695ef3cbaffb0114caf086a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/advancedd.flash.json"
+hash = "23bb7689f1f2a0f44111d4885618ae9b0a2fa05378ed24a61478dfdec08e2086"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/afgan.json"
+hash = "161e7dba2ed3812d4be2e7598a002012650698e4e2650ee0594aaaecd448f410"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ak12.json"
+hash = "3a664c9231fce13188a3c9ccd3c2521ffc5b123e6d4551125ff93c3cd57c0d61"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ak12ammo.json"
+hash = "78d52d7dd4999aae1c03f88688c8dbf4494687a25b5c1e34b652f82c4e91a9c4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ak47ammo.json"
+hash = "5812a9890ec81c92dcfd2dc66798e5716f5ef0589f9b998b05a213c6733f98df"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ak74m.json"
+hash = "58edd0bd080cf22327a7ab35888af2f18bc9f5331abc69047a66a8e3e8241991"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ak74mammo.json"
+hash = "d0996ba73fa0f91353fd400e3afc39532470236d4450d314cfc78acab3405873"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ak74u.json"
+hash = "5a1eeaa17cab4d8bac3d7a66fc27353c4a14eab30cd7f558fd8f64f7f7dfd8af"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ak74uammo.json"
+hash = "f6b490e26573137d70bc5740cdf7d1e126f5c7257e58d22f38ea9e0ef10a6065"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/an94.json"
+hash = "2957597e16555b48acdf642d5560433b1e983adefb66523004744f30fe533442"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/an94ammo.json"
+hash = "8015f752f38a2d35eaee172faac6a8530ac2be59b1c3836d84c2e316cc184909"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/asval.json"
+hash = "f2a739174917675c803721ef9d6e4b8463653f83064a1f04dc077503b7df5e79"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/asvalammo.json"
+hash = "ce1ad81cb672fd59c5b6a4b15c2a1d0b1941a906f5e7c3eae14b55bdc798bb17"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/avs.json"
+hash = "280b6c880407e2f5452d58fe093caedd8126b5449e235a1aa166f205fbc5bd8f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/balaclava.json"
+hash = "0dfee5ce1b56ab3dcc4456f89339f686a80e25c09bea94655206c6c4042f96a9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/beret.json"
+hash = "7da83d1d0de04207a4dda4648a1a0ee31f4eb1348c3227a549c2d4f5cd2ff27f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/bizon.json"
+hash = "8fd0fa7e2429e96f1ece81aec9613c73743cbb74f3945ba900ac4a3d6899bcef"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/bizonammo.json"
+hash = "ca714ba7d8adb396d4bfda990e9a70b9993c1cd58c08383c27ca049967ed8b51"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/cap_od.json"
+hash = "280b6c880407e2f5452d58fe093caedd8126b5449e235a1aa166f205fbc5bd8f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/cap_tan.json"
+hash = "280b6c880407e2f5452d58fe093caedd8126b5449e235a1aa166f205fbc5bd8f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/elcan.json"
+hash = "80906c09f5a3caabd1b55ccddc24d7656a414d18602a1887c8d961c21c30113d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/eyepro.json"
+hash = "426dcf8d2ec202c5d57218c5b909d0584f15d148865d21b905c9230b0a830218"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/f35.json"
+hash = "081ab53fd3b2cbf61c9c2a447209a518eb88d584063443190b6bab2addaa5cca"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/flashh.json"
+hash = "f2e61f0d97164c7e84f09818b1d7f6dd6a269c05cee45e5692fe773d34210e4b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/furazka.json"
+hash = "651fa9ad220d4f3829420b66e8922b07cb4ef3723abf2bee0603745556b14fef"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/general.json"
+hash = "152b5f47e4d9f8b92757d012602900749877934d55cdf6ee6c44012dee4f2fc5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ghillie.json"
+hash = "48e64b1366f8c03e7f9077dab1b36395441e41347a48f45156a32fd3cc1bab73"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/grach.json"
+hash = "3123974d788e11fc82e0d2b42dc2b445e78bbb565bc8526f2091e9ffd8772c66"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/grachammo.json"
+hash = "b2f771679b1c088f121efb0ed5df64ea869ec9ff8a30dffb5bbb973f726a9a70"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/hawke.json"
+hash = "38996ad478c1af35887eff3b3c001c5b4e3d817d46e003ca7495016fee37feae"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/hk416.json"
+hash = "4b86a45d7bc25024a769076776103bcdeafadb7087af9b4180a4d5b632b3c9a0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/hk416ammo.json"
+hash = "29bddd4aac078efd3c7085b56b751e63227f0eecfdf7c84df1e0b42df455aa1f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/holo.json"
+hash = "015983aa9c613705ee8f81a55041171fe47f71d317353dd284da017cf0814d48"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/horizontal_grip.json"
+hash = "b767997f101ee34325b66740cc5895c1bc6741f7fdd07c539194a738371481a5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/horizontal_grip_usa.json"
+hash = "977dd20cdb395c35b05239e77aadb0bfcbc42731cadcecfd832c36beb14ad584"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/iotv.json"
+hash = "673d586b8e629a0414f44f1f01eea7fe33da0e26568c461617a54893c00b9604"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/iotv_1.json"
+hash = "c80179350434aac786bf9857a7d81186fee576dad2e049c6512eb23f51b33dcd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/kobra.json"
+hash = "c4907a0535a5fe88940afcc22774572ef78bbb6416fb1c586934a6995565a39a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m16a4.json"
+hash = "69da1c33a8404aed04053a7216f0d6f208b23d271a9bcf7c352c799d2502e198"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m16a4ammo.json"
+hash = "08ad8686c50fc87f6acea5fa5809ea6792ead926226ef10844a7d030127f2213"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m24.json"
+hash = "f7ee12c3c5cc52746c2caac29c5b37ac4ee50a30822e92785d195695f316290d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m240b.json"
+hash = "b836d7ca79156e1ed76c8ec8794b9a42ce3752ef65a75ef9ca75f25f7a8147b6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m240bammo.json"
+hash = "ff0f33ed9d52ce227f1b8e5750a9552e0f21121e49ee19ca20ff4415a5c9985e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m249.json"
+hash = "cac04e2a6a6eca8203d4fa6661fb1ddd37a9ec9a2574125ac15b49712bc347a4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m249ammo.json"
+hash = "dc562a509f0b08842bce4dd0faa1b7b5470a9c1bf5996515a6b95b928848a74c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m24ammo.json"
+hash = "c6ee572b7b3e39cf18687d745f62bbd5d2507099f282c620c47b85703588e561"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m4a1.json"
+hash = "c387b9d7399985c791c138a23cb92ffbf3cf889d760d340d65d8ff7dafa1d1d4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m4a1ammo.json"
+hash = "75a7e07734761e97d4231c6d4b9d15910a6748bc032feec752b582131f25147a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m67.json"
+hash = "32aa2e054e490a7da5f985e24776fb757831817637d059e6e81773c204074ef1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m69ussr.json"
+hash = "e9fceb2c627fd46798fdd772d6c216b6be9e30ca2085a5a0df09c3ac8acfc922"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m9.json"
+hash = "08800448ccf80cacc59e54cb02c356d93f2bcb3b8ebb741e1173bffb569cd93d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/m9ammo.json"
+hash = "242747413b6cda772aaf5628d54d87f5b9b4dfdf9cebf1924d05ec011c60d56b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/mk14.json"
+hash = "e2a5197101ed9980b49d02c43fe077be591ce02d3508b5790fbf96786cb9fbe9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/mk14ammo.json"
+hash = "41cf9bf68efe03631139c9d263facf89f997844371763268cb5f9e6a5f54b67d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/mp5.json"
+hash = "1cee59667472ba352778df563efa86824be0e70abd15526e370eee311017271d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/mp5ammo.json"
+hash = "a18b78317360f43fcb4bce6969c73116699ba4282bb36711ee390ef9ca41f655"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/mp5silencer.json"
+hash = "e9c4c2ce7dca3f558fd0e6edbcadebed13b49f315d6d72ad6be6c77c257a5ddb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pbs1.json"
+hash = "aa2ad35b9530cb127afa67273bda82e56a0606029fcdc1960c5f07d5b3c0cd43"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pbs4.json"
+hash = "c8e63021c66e3a1d8f07999c6064d62167f005442de4d57706d05c3d1745ddcb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pilot.json"
+hash = "fc3ca4077ed1995eda13d96d0969c4c270967b3a5087b5534b3b9ff755105900"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pilot_inside.json"
+hash = "3f88fc79c5dc82881d2a732eda4e08f896d2a18b6031f7056a6eea5ab65a7a4b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pilot_outside.json"
+hash = "a7c7777efb52836dfe88c49ee5b26eaa15b766576669a0c9f60f1bee45e54220"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pkp.json"
+hash = "091e591cad191320a50984fab021e20b28bb11af412ebe4c26d415a24a9aee1f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pkpammo.json"
+hash = "dd3de9c82f1755d09ba76b554fa0779d55a896e66172ac1f179e0c1c9314fc30"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/pso1.json"
+hash = "b4114e59ba7b2386383d1dcc068c99b7017f26d3435c4b4a03c34882ef74788c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/qdss.json"
+hash = "f1bb7bd3150535d017b475980ea85593215541b89ebe31507f04d20a1e2d00e0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/rgd5.json"
+hash = "2bd64af3d7f4bb3dc6baae97ae81547379fc78fc181d880124c66cb5f0ed6ea0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/rocket.json"
+hash = "fb102a446a20a7ef92afaef34f3ebabaa99fa798d8986abfdd3eaad398337ed4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/rpk74m.json"
+hash = "e5ec88a3e566f01cdf4b2a8770783e8d7dd9468cc365a573864a62fb30749595"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/rpk74mammo.json"
+hash = "37afd32fd2eaa375aabd520cbb5bd528a99fdd37b9b4d4d34adce6bd65c97200"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/scarl.json"
+hash = "ec66087cd72520b794d8c3d86cb25febeca1e76a99b8130b1d2b4c4773ab352c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/scarlammo.json"
+hash = "ec8a284f666eed023f712c078a7efc6564fffccef3a26683f6dcace03078cb2d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/sscope.json"
+hash = "3a254fd8b30c965bdd66e2ac3a5159d49e6e5d8ac68f0e17c6f5cd97541b455e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ssr.json"
+hash = "80a0be8bb61ac3384e292abbfade269fa23df9d30ae393269d8792dabd1bf5cd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ssrammo.json"
+hash = "8487c9cae4acfc8767f4d9dfae4649bc38126f850fd92695f2998bf375830464"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/sv98.json"
+hash = "aa990ca5784f26c4263345670677eb6737582c934c54885443dd97c9500e9f47"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/sv98ammo.json"
+hash = "8f1e472263b6dab7ae66c208b41809aa37a7ce73cb4afc88ba2657145156a72b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/svd.json"
+hash = "c475f364a0b258de3b9e52d774b612194f023da76d523f240dae1333bbdbe15e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/svdammo.json"
+hash = "a05400af201718fca86b07e349b41a3e8f64cd3d9c76dc99d7c3deb6d3a8f8d5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/tank_hat.json"
+hash = "0d38e4c3a4dc8cf44892e7f11ae9e7c547e729bc141ad2a9d027e42636a47174"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/tank_nato.json"
+hash = "bb126f8daab4eb4b9827ae5238c838cddfd9cb46031e8a96055797c480cc2876"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/ucp_uniform.json"
+hash = "b98d736d92502c94b6a56f0ebb444419b99d39b1d0f9b201a0e99eb447eb8d40"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/uniform.json"
+hash = "6639f351f29e1ae40769d7ff1aaa381723da8a8b901791b73e4c8f6aec4f936f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/uniform_chest.json"
+hash = "19b33e9a5d316d0b43ea9da580aeb336417527eb3a289cc29860b0c7bd56977b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/uniform_feet.json"
+hash = "795a63ece99fd30149ac1293d8dacc5b4224b310e729d890b1cb7ebe89507988"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/uniform_legs.json"
+hash = "7a62152e136fdc237421f7476923825616f78dbe548ebcbf81e3a5a434f996c0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/vertical_grip.json"
+hash = "b8876b18ffa0e940ab99029deaf9b499b8c916f602cba6ae2dfda15b610671cb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/vertical_grip_usa.json"
+hash = "7dea4c4367166b1f6055fe219b1906aedbcfe5d65d59b0892607f7925436c4ac"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/vintorez.json"
+hash = "ea297b6109d5622140d46d66b0721b5e02346dbf4cdde3231704450323b27412"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/models/item/vintorezammo.json"
+hash = "b33c9bf2ab7f5c3acf866afce8462794b45b6c11b65191cf2b607387003c1d89"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/107.png"
+hash = "f3a7ac9628583645c943910eac59f66ae85246b239fe12d987dce92c24794848"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/6b27.png"
+hash = "deb09113cae34dab94ce5e6b6dab16f249a723aec3af30830e28576887060ab2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/6b3.png"
+hash = "6c8a2e56d69bacf963715983a3c1ae0706b5db8ed097b75e08db28dfe52bff70"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/6b33.png"
+hash = "dcbffb39197b17e29e0b183fb8dff89ed6e563b4804116a29c918172a5656573"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/6b45.png"
+hash = "cde88b81428f91e440c5b73fc02571743a673e4703000cc157443667cc1de58f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/afgan.png"
+hash = "666ba0c79cce2053dffcda895e6ee7764dccb86fe36efc02668e42b0a2ff9f44"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/avs.png"
+hash = "b2e3a28e30a831700447c30261bf0b9e02028ab6747d383ea387030854d66999"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/balaclava.png"
+hash = "a02744351d59f445b1d0c58697de1830f1aa154cf39439f7ce8d05f48fe5ebfc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/beret.png"
+hash = "33c0404f54ea4123546a3833fe625ad12a3c08fa7dac8d149bd7e9dd40f661d1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/cap_od.png"
+hash = "402b37fe8384d766f4e673819122b4066e64b7a3da3471d4f572bd4075b6d40d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/cap_tan.png"
+hash = "4e5e3ec03c311397bc74cd2a6e0a5ac84b813b2f8c958b1a1000fe43f888282e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/f35.png"
+hash = "b412d6023f36f96ca9170e2b27f8442df6efd76ce181cee7ceb7d991cd8886b9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/furazka.png"
+hash = "78de8f9f91016d153ff349f2b37ade9d34d309878539b9991399e55070b47cf1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/general.png"
+hash = "16ca720021b2317a67bd584606b96d4f4e442b89d5a8dc91eb6215de023a3042"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/ghillie.png"
+hash = "bed3891ae6a58d5fbf98e8bbce6470af14bbff04594f3a726fe0f0e11802e89e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/iotv.png"
+hash = "5fecbabb7a2b3c11eeacfa19176bd39de05fa63f4bff9b50d2bbf6777e11f1fe"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/m69ussr.png"
+hash = "3343dac61317f842107f6db2a8f6df612be423c3c673d3d9adf025991408838c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/pilot.png"
+hash = "9b71463a8b9407fbb7f9eae289bd39a71c4a4327dd83c126d48282aa2d28ecfb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/tank_hat.png"
+hash = "7d2f93afdf6990f9832de303135c106ed2977414fd73ae836013db47eb1c5e0b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/tank_nato.png"
+hash = "4bd04760610e37f189738da327aa8ca9bd891280fca7172a1bd8b49a231b06ea"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/ucp.png"
+hash = "cd401fc3fcb69b9926864f655959aa1f9d3403afd2adff91b4a1154308aa0752"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/armor/uniform.png"
+hash = "79085cc76fdac3d15bfa055a7d4480a89cf04c0ef2c0e40cccff30808fc8f3ad"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/1p29.png"
+hash = "61c152bb15c2fe03ce14af2e4be13a3fdb19840187b8a04b19dce1ae40b3dfbb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/1p87.png"
+hash = "8ecb99348ad4928bdec35414dcbf4d1402c2048f697261254379c3012f8bb768"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/552.png"
+hash = "f40e2b9f37fee02b220c85ed586876f4f4d23db9eee3094a9d70c766d36e8aac"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/762silencer.png"
+hash = "87193da31c7d8f7457553b46cf489e9c4ac0cc6debba7950fe90a9dc444b9913"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/762silencer_usa.png"
+hash = "df623c857f1fec846c69dc1d1fde39195dc80b34e1c11247c1684fa13cf4d762"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/9mmsilencer.png"
+hash = "a2d5bff3f84c87d991e4e5797dcd5e53e048408b0b86424e45177c89367cc2cd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/acog.png"
+hash = "03e1a0205c3284355df961d0b7520cce5c0d1e4fd3637ec565b8eea296169727"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/elcan.png"
+hash = "d76491e937cb9695e56234efcbd83b3948be55b49cf12c8147bc5e4d413e5819"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/grips.png"
+hash = "3b532ca969f3b7cd076f79cb9094437881adf0d59c36379d422122d699496909"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/hawke.png"
+hash = "f3dcf17ce00867eb3c280c86a9c841984134d962efe46fabdb90969ffde8b088"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/kobra.png"
+hash = "282d41e2df249c1a0b12d0d9894c76d30bd862d11997427ac60365c3784686e4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/mp5silencer.png"
+hash = "e242fd88be80dcdc004f3c0698781dbcfeb3a0d6a9c4ddedfbfa3088abef7f29"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/pbs1.png"
+hash = "d6c7ca8c71cd463b609454ff8576cf5e2feae8fef8a36bf92497c90e20ed7ee9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/pbs4.png"
+hash = "c1d72fa44f352f273b6af106cff71700b3f254da2d196d44b7171bc1ffdaf7ad"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/pso1.png"
+hash = "732b82274cc11c001f43ff21d0e50569faa2776108545d9833eacac29d13edb1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/qdss.png"
+hash = "e3ab074b53d3a982d993e5f308d06f93b75b0d4f96fc68f3914042ec5da2d8e5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/attachments/sscope.png"
+hash = "d7d5ea52bae5de72f57df8a04e6220ae005ab769e0fe67022601fe2ef0dc84d8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/bullets/default.png"
+hash = "c2d8cd15b21b2d5a69b1a3c22aefdfc15d48f41245aa955de76074fbb385baa8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/flash/1.png"
+hash = "2f5696fb7cbc913b703764c0fb050db80f3a7b01a18167a59526325b8a325336"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/flash/2.png"
+hash = "8313f40de160001f5918976696eb3746608ee584aa0b1c5c2c8f3ac22aedddfc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/flash/3.png"
+hash = "67baca61ad4876eb1aca4b23a3aef5b1f5c47b095fc08555be9e758ce27166ab"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/flash/4.png"
+hash = "168d368bb37f507d1f796a263dd316e5b492f9cad4c995b9d9fdf41688ceb8af"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/flash/5.png"
+hash = "9617947a7530b3c6502dc55eeb7cb1b7328883d609b30e8d7cfa04457d3a7bf5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/grenades/m67.png"
+hash = "4180a30fde315c69bb0779e2e96a5695680758ef614d6d46d640ade584d3d173"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/grenades/rgd5.png"
+hash = "b6af781d2f1893afa27ced42fadff0e3f1bf43f51cf675a3c504530777825f2e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/ak12.png"
+hash = "dfd2f90d4b4998b788dd1c278d78d56e162d9d51f730e03506ab9102cd4f79f5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/ak74m.png"
+hash = "3a59a8761f65549c674c724738fb7cdfbc213026771eee33e19396d3215c4e3a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/ak74u.png"
+hash = "00a2878df6d7f15c683e5c7a5cbf167786eca0a77b2aed699fdf3864d4bafd26"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/an94.png"
+hash = "b8aba3caedf2db0cd42caa2bd37c940c0997ffa3e3d30f4219c724eef3632916"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/asval.png"
+hash = "1c6d251bbeb496730e70e37f5c3a05944d67ba83cd81276efbe291d9de1035c3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/bizon.png"
+hash = "0c55362c39c669ada2d39b8cade94a05f1c0d27e876bb1209bcb99fefeaa2b79"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/grach.png"
+hash = "fa39b494c4b4d92c22b05adcb82317467078f957b9dc3bfa63da41071f9866bf"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/hk416.png"
+hash = "a2d87f726040a29de52ec44319e82d183abe086ea3f176402abc7ddd619cc00e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/m16a4.png"
+hash = "020cf5fd3162cbbee0503d74c87fea5cb9d2d83b5549a77661dca0c3cd3ddad2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/m24.png"
+hash = "26e67683c22ddfda43f215b394c04135b5e5a9496659e57853abb7b93194883e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/m240b.png"
+hash = "0c22b55408c6c609d1db5460f56402c7aadb1dba2bad88d64ec27d1b0b08095f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/m249.png"
+hash = "fe779cfc8d8310cfc8054efc274ca09eb2b19a0487810c1e4d7142e33bcd8508"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/m4a1.png"
+hash = "107d247f5fcbc3e3a99060fc2e22811e8693df0c983eefa862fe9bb25600e92c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/m9.png"
+hash = "982b63ef749398ef02539b6f5f68bec524bae9723390642412dc8453f09f2351"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/mk14.png"
+hash = "9fde76fe7002132ac3131c99349135a5c0b928ba25f29c66ff87c3c30f1fdab0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/mp5.png"
+hash = "d46d114aed9b51bf5da9de858b37b6e6cc4590d87464846a5b1fa36e28981dff"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/pkp.png"
+hash = "88bfaf6f1dff03f5122b47a712ab9c9b0b0a7e62560e396846d95fe5abd15a43"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/rpk74m.png"
+hash = "ed815be09bb35e14aa3ec0ca43cf48c99af766c85170645dd1288b73282e65d8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/scarl.png"
+hash = "fbf8c69fe3150e1ba52685951967f0b1bec4dbaa5641c9232c7226b5fa9042cb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/ssr.png"
+hash = "12dbc60f65669f9061f752fc7027eedf04242d028bbd2f71fd80b229f5edda71"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/sv98.png"
+hash = "803066c5ec62907fcfe4d47605c48a20c16df9e21cbae955c4975a336066acb9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/svd.png"
+hash = "50a9eb45904e544bb7222e03795c9ef82989d00f24a3ed7433f04215f40ec86b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/guns/vintorez.png"
+hash = "4603897ccf9c20e11bf1b1a8ccd5eb0a0066321f59fd89db5c818b2a8e18fbaf"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/skins/mask/default_mask.png"
+hash = "48667d5eb3c59ec873098dd1939873225d527fcdc181278b959d6e7d6faf488d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds.json"
+hash = "4a975945846c3467792afad9f898b67b03fa7956a5610751f37b0b082a7845e0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak12/reload.ogg"
+hash = "ff175d2600bb90d1d3e6f0e1791ee381dc2ed0ce1db9aec887cef91382fc2844"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak12/shoot.ogg"
+hash = "6b840668ed800917e54c91e8896ddb55aded22f4f9f9858bd312548153ead61e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak12/suppressed.ogg"
+hash = "8b4bf2ecd67a4c73c69b317c8cbd23087f9bacf4626cfdfe36190f5ad30b72c3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/distant.ogg"
+hash = "183faf0e829d408945486a666958b994b641ac543d5972dc029e00514de64bf1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot1.ogg"
+hash = "4fcedcc07f9b65ccbf0cb327bbe8f2a0eb85180de67ee6136afa8911d99f6e70"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot1.ogg.sfl"
+hash = "d05d133f61b12d7124dd5864b415cca241ef3c8a4c0821d656e28df01de6df67"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot2.ogg"
+hash = "f024ab706e358d2dd9dd144db04520e9f9dd154854a7bf62f086eef7c6c0b90a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot2.ogg.sfl"
+hash = "f237e7c18f78464237d0db36461637dfbc1d9bc04166fc5f0c849e9f83a0b10b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot3.ogg"
+hash = "83f9af9e7b6df6dcbf37e56d3389b85bab4bca35e3f22d144aa023831c4d1bc7"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot3.ogg.sfl"
+hash = "875855469025c421dbe41a60bfe385195fe7c9d569d7a6009e48df403f7adf1e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot4.ogg"
+hash = "8affdc38c667626dc03010d9fc52abc745f072b83aa95259181f0471651cb831"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/shoot4.ogg.sfl"
+hash = "f6f84e1effe885d393704c448e69a7688a172ea0d9fbc7ac2afc2d6cec3adcf1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/suppressed1.ogg"
+hash = "0a40062eed8b0d7906d2296c758d6fe27525990f8cc47533478a700236d049bf"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak47/suppressed2.ogg"
+hash = "3fbd136d3ab4d633f17104d0f4d3e4dda07443fa6745fe945d2535e28bd05422"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak74m/reload.ogg"
+hash = "66ed83d6e18a51c06d345faad34334e0f4b5a40ceea61bd029c093a9b786d5b2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak74m/shoot.ogg"
+hash = "42fc6630bab1c96f8d140dbe8cafe72c895520519d4fc75928324cf5593d75fa"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak74m/suppressed.ogg"
+hash = "636691a7c4df1affe1d4bdf0e6227b4933cdb91aea8756338c51103aeaa48f9d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak74u/reload.ogg"
+hash = "d6cbb17c2fb22acef3f1e553ca6f356bb7456ccfac8a058c6f7936ac351abc78"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak74u/shoot.ogg"
+hash = "a8cda5637a01488774d4a1b457ee2640ab5d55f2336cdaf368cf8c4c1abe6a52"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ak74u/suppressed.ogg"
+hash = "b1f61c588c7a2a9c76035390fee7e1f39ec4bcc8893c74ef8eaa37cb5490e012"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/an94/reload.ogg"
+hash = "66ed83d6e18a51c06d345faad34334e0f4b5a40ceea61bd029c093a9b786d5b2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/an94/shoot.ogg"
+hash = "dd22a710dcc1e1682c748479d5f03fad7f721342dfed09db6110aefc1f2298e8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/an94/suppressed.ogg"
+hash = "8dfb6b89b6eeca7f27391c7b30168f1e2c62e59a53e68e7ac9f8735482291bf7"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/asval/reload.ogg"
+hash = "4923bf539de5b1a9647c2d0f286ded9e745fae06fbfa54671d64a75b100594d5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/asval/shoot.ogg"
+hash = "86242cdcf09f885471b9cf937fa297f09f0777e4f752073148389a0e8ea4fe9a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/bizon/reload.ogg"
+hash = "245718afcbc918a16941477d1d1363302703a77fe35f2166348a92ce28aeb951"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/bizon/shoot.ogg"
+hash = "ad33c180db9ab97c1d8ecad701f2f61b92dc5b253d37f29995c8b0644403059b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/bizon/suppressed.ogg"
+hash = "91d7f585d6ad32cc1268aeaa7464805d06a84a5adf1656eca75ba06eeb163598"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/grach/reload.ogg"
+hash = "1ef18fc690313401a60e578bee802c8c82eb8bfe4f9c1f4ce9caa101156a8129"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/grach/shoot.ogg"
+hash = "b9b59eb7b71fc2fa15bd3a2b150c5b63c8a2ac3144deaad8068c7f38807af6cc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/grach/suppressed.ogg"
+hash = "8596cebabd2055833f8e5447403930f92730cfd735a2cf2b2b0498cc87ff2597"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/hk416/reload.ogg"
+hash = "1820ed687e2c4fb5713f8edc26985c4f6c41aebfd57c50b92fc38920a1eb20a0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/hk416/shoot.ogg"
+hash = "94aceec47e01e37f4170aec826646cea32fe624f594869901e208ef2498a7118"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/hk416/suppressed.ogg"
+hash = "207f60795860f50478efc5ac8053e57d536748952d37534aa64ac797d3dcf684"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/load.ogg"
+hash = "74a47ed9b564e3d66116f3b7abb9f98930480cff49f2ef45c55ab6a06bca67d3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m16a4/shoot.ogg"
+hash = "0b2f2aba150101dfc9f4c4480b83479fdaf0bf5cb29e4b8b6d5a898d348570bf"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m16a4/suppressed.ogg"
+hash = "8fbb3dcecc6a3edbc4229fda97968786e0f30b53b08fcd534d439234e25c7e84"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m24/bolt.ogg"
+hash = "134578883fd21872062e28c9ac543a8b33c46645b4bdd36bff41f9e9d3063c8b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m24/reload.ogg"
+hash = "aa2e51033497f51444239d2899cfd0d107d0b683034adf8859fd1a7409fcc9ba"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m24/shoot.ogg"
+hash = "dbb8b62500596e0aff567691c563180fbe1f4801f3ed4536d701bcdf106ccd3e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m24/suppressed.ogg"
+hash = "b0fb788a4fc500363a765a77231a2c60d1b2115be57b9feb6888558259578d92"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m240b/reload.ogg"
+hash = "89a8730bb0d7300ac0371ae2c65e3dc9e4a968b0e2827b3a5481b1ff1f6452f6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m240b/shoot.ogg"
+hash = "a197dd38bd0e188a9ead345a3398fd4ff1ade5fe3c2d2514fd305c7aa1741dd4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m249/reload.ogg"
+hash = "1ee08cc7dab421855320e9d95fd1d67c24d3e38963391a1aca60e5d75919735b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m249/shoot.ogg"
+hash = "81b9954cfcf6c77a0cb37a9593009ed9846ba7f0cc3471a9712aa6cd66bae1d5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m249/suppressed.ogg"
+hash = "ba6d23575ae1e4a7fc12f38583246dc746025b8ae408d1bf9eba402dc6c4981f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m4a1/shoot.ogg"
+hash = "66ed188493a1e716499b8515bbac349c20351ff4f3cc3531841f5fe4b8da5777"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m4a1/suppressed.ogg"
+hash = "acbfa32f4490f25f5cd0707cffc85177d22ae22953ef803211bb1dca4e0ed981"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m9/reload.ogg"
+hash = "1ef18fc690313401a60e578bee802c8c82eb8bfe4f9c1f4ce9caa101156a8129"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m9/shoot.ogg"
+hash = "52c722c1aa5da33e36f461420f0e7195bf7c4986e4e1e43668e073a1e5ac3f03"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/m9/suppressed.ogg"
+hash = "dc7993802576151913700455cc057df0e61faf6f3541b9306d9be53bddfcdea6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/mk14/reload.ogg"
+hash = "854c234ba5811e27709067f508be5029c6fc70165a5b6ced0aa93b2ebc4c62b5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/mk14/shoot.ogg"
+hash = "5f4980d05e70e994ee3b13878b46bced2416d09bbb2e643daa149ac403493c65"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/mk14/suppressed.ogg"
+hash = "ca0bd196f75c963bda6318c1d12a924bdf023b356421f75fd5dbce4ec9113920"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/mp5/reload.ogg"
+hash = "e2f988f4ecfa263701469061cdfdbe82f2ead2a9c2e86b5ab790bd3a677099ef"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/mp5/shoot.ogg"
+hash = "b65e704cbf383a11fcbc2a68ed40465f4849581041104728504903c6eaefeecd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/mp5/suppressed.ogg"
+hash = "7882c5e13834f12ec7f774d219aa0ecece277f7dc9f2d15eed7fe92694427d98"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/pkp/reload.ogg"
+hash = "e6eecfc232414a1029dabb67d9dae60696b7b468263c6fa5c4298f56d216a381"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/pkp/shoot.ogg"
+hash = "cab26c371d309c0bf5a06a4f8b14eaf3539097848771c29ad0674cab262461a9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/reload.ogg"
+hash = "a9751c10fe7f97ccd0e5559a8bb72d5fbe60405e8fe469d8c1f063c1082c6562"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/rpk74m/reload.ogg"
+hash = "d5fa3b497ce7d3e68ff2e7d7bc4397f7ce2a355c49fed4f3b1d22681678c64ef"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/rpk74m/shoot.ogg"
+hash = "3cb337ca289fda94c442650df812de7d954f3895ad73e1b16ca540b239c51978"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/rpk74m/suppressed.ogg"
+hash = "8dfb6b89b6eeca7f27391c7b30168f1e2c62e59a53e68e7ac9f8735482291bf7"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/scarl/reload.ogg"
+hash = "91b924cec38358e41c599096a7d95995bbd7b3a00d4311cd07388c89d5361198"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/scarl/shoot.ogg"
+hash = "676651697a5c92b70ea6e2815f35610b7fe4e181195a8112c73a0aa40373c6f2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/scarl/suppressed.ogg"
+hash = "0feb877a51977234b23eec15f2d8c0605cae45da0dca6ffcb1310ab3d4199622"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ssr/shoot.ogg"
+hash = "8ff8591feaecd3fd0754e207c7271b70646fc288fcf022d41053142a080c95e4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/ssr/suppressed.ogg"
+hash = "990dc4e9f5dedda9a86f0dcf0383c1428496ee4b92ca29a107c49661a5fc5a89"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/sv98/bolt.ogg"
+hash = "d60480be3299a5b8494e605eb3a14768f5c0ca796ce4c8eed8bbdb2557b7ebca"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/sv98/reload.ogg"
+hash = "45cddd6d1c56d613cf676161c82a3301b7657e4cea74926bcb017b53121bcdcb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/sv98/shoot.ogg"
+hash = "57d7ebcf94f4dc293f06a553e11624324fdab772db85af3044e37a6687209680"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/sv98/suppressed.ogg"
+hash = "0812cc563ff3e5929b676581c1d78b08ef0bfe7e5192a32b81f02e7e0806e929"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/svd/reload.ogg"
+hash = "3f029a433ef6e9c1d55565ff8767ebfa14355f7653aac9e2016b366a5bc0dd7d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/svd/shoot.ogg"
+hash = "2c7993038d51a9a1d642b789153c5b8298bf13a466442430b6d44cb8a293dbd0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/svd/suppressed.ogg"
+hash = "0812cc563ff3e5929b676581c1d78b08ef0bfe7e5192a32b81f02e7e0806e929"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/unload.ogg"
+hash = "ef7593c39380e302a1762cf2e8a8bbf741f48c6da82d2fb1bec3abcee4c8896f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/vintorez/reload.ogg"
+hash = "5272de8f62385f3aa9ef1bbc3c2b1c94710ce60f8590bd20e4b08f5da075560a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/sounds/vintorez/shoot.ogg"
+hash = "86242cdcf09f885471b9cf937fa297f09f0777e4f752073148389a0e8ea4fe9a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/advancedd.flash1.png"
+hash = "66dc39b01579873ed92508645ced85b0a287c84ca02331964769192422fd5edc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/advancedd.flash2.png"
+hash = "f27e85744d1d438380b035666ddb98a0670d35515ea9337f60e2bd7feccb632c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/advancedd.flash3.png"
+hash = "66dc39b01579873ed92508645ced85b0a287c84ca02331964769192422fd5edc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/advancedd.flash4.png"
+hash = "66dc39b01579873ed92508645ced85b0a287c84ca02331964769192422fd5edc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/advancedd.flash5.png"
+hash = "f27e85744d1d438380b035666ddb98a0670d35515ea9337f60e2bd7feccb632c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/flashh1.png"
+hash = "2f5696fb7cbc913b703764c0fb050db80f3a7b01a18167a59526325b8a325336"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/flashh2.png"
+hash = "8313f40de160001f5918976696eb3746608ee584aa0b1c5c2c8f3ac22aedddfc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/flashh3.png"
+hash = "67baca61ad4876eb1aca4b23a3aef5b1f5c47b095fc08555be9e758ce27166ab"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/flashh4.png"
+hash = "168d368bb37f507d1f796a263dd316e5b492f9cad4c995b9d9fdf41688ceb8af"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/flash/flashh5.png"
+hash = "9617947a7530b3c6502dc55eeb7cb1b7328883d609b30e8d7cfa04457d3a7bf5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/ak12ammo.png"
+hash = "50ae21e38963f5504e1bb1eefb01eedacbf6e41b82f09e4a0f1ac08d1f1cab85"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/ak74mammo.png"
+hash = "41c39ae97fd0e199fb9c870d1af0d18465855dec32489a557ee24163c69f33c1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/ak74uammo.png"
+hash = "d5dd8ef97d739f00c46061e98aebed5423f9fbb3afa6ddf98d9c048a76df2399"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/an94ammo.png"
+hash = "440871c20927b130eb8a2ae560db268459675fc92f59dde72c668837bfab2a17"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/asvalammo.png"
+hash = "18688b0345b62f036c7d94794d70f1c3f13e1284cecb397582985ed41e2112b8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/bizonammo.png"
+hash = "88c29e4e05ac5a461fa231bbcca3d659fc69e851d1a9b2dacf4fb5c8b0d0f80f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/grachammo.png"
+hash = "aac1ee04cef47947370030049af01d2e9a3aebfbf1455772f5684e85690e50f3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/hk416ammo.png"
+hash = "8dfd5bbeca948ccead6553307c17fe55692da220800568733c7223ddd6297835"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/m16a4ammo.png"
+hash = "a32c5428cc56e1f078b58fc11ba99b10af46110fc1d11c72e45b23d8705ced18"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/m240bammo.png"
+hash = "13afc6fdfaef22824a40441ccf701cac6f84cca45738258d8b3900ed93937ca3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/m249ammo.png"
+hash = "4b6d5e52db8da76b01431f5f17394c81010ec7212e95e6fcf9d25970d7ce1d27"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/m24ammo.png"
+hash = "f63ff18f20897f5d17425678975e54ef10343a921b2aefbca412247622537a46"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/m4a1ammo.png"
+hash = "cb07a5e42218603e56b1d8302482d6c1ca6f77834b978075e7ed53b1f7bad10f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/m9ammo.png"
+hash = "bfda4c35be77ad861fbf6b7563bfef9a7c46e91326c5c62f5c9eef0075c0906e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/mk14ammo.png"
+hash = "2b6e338a1aa036171e961ddc73a42bcbe2eef504e98f95af68f520f87fde1bb9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/mp5ammo.png"
+hash = "97a5ba2a90e13ecef846a3dd6ecd29fdbcc1616ea85c7ec39b1ced9f9ab6cd61"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/pkpammo.png"
+hash = "2efb9e03cb1703cdf1f5e62b69ae0329519e68310bacbca89845cbd1e1f8de44"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/rpk74mammo.png"
+hash = "fc293ff4e54db1a9b24b2885d14ea151015afd4ad5adace53d30940bcc2f07f4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/scarlammo.png"
+hash = "c7413963f2b2b982110dc25490b27c0348227e84cddc833b963fc994eb145e43"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/ssrammo.png"
+hash = "fd0a6376498ea6a3084a71d826f9ba5d47408feee0f7f9a5c18d74216f3d3d31"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/sv98ammo.png"
+hash = "474fb10827993be10908552669e3609bd8d28a6a392a20c8b57265335378f81b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/svdammo.png"
+hash = "94db2c146b43a1265d35b9e996376e0d6082677b2d30f1c8b6e6ebfc370968fd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/ammo/vintorezammo.png"
+hash = "2c2bd59c5da6c3fdc74b730dfb3b08b9624b1d9e94e3ef4e19fc136c09beaac1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/107.png"
+hash = "1f2bbf25ac4533ad0ba1914ec58008a5b2b29be6b6b477a54c9cd884662679d1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/6b27.png"
+hash = "579fcaa839e7574f5d4ed1773e26b08addb050b512556c6cce3cbaf91ff82954"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/6b45.png"
+hash = "4fd1c31b022cc282dbe297ecdbddb51053362e2cd7b7855eed55030c55ab4694"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/6b45_1.png"
+hash = "ee1d8b846a1352b852a49e831e94b3474712ddbb8a957e0f7ae7a7bb9c9f62a1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/ach.png"
+hash = "a2d3fdbc96c4c0443807f0d8eb8b4fff6128414e307651997cac30bfa6ab846a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/afgan.png"
+hash = "d165657a23654bb5b9ed1d08eb276fa933c787e2afb98a7e7e6699a02538e0b3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/balaclava.png"
+hash = "fb8665d95d91aa2018ad88a6b84a4db2c78f20e98a8a42396556cf20dbf70d76"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/beret.png"
+hash = "5fe14e5b5ef424fea937026f3d0a3f3bd760a9400429252dda533d52de0ee89d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/build.png"
+hash = "908ba3776a39f69ac1cbeb50d1c13292cdf5de57d3bb66a3513dd1ec26fbfc79"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/eyepro.png"
+hash = "4aac3221351e09c569fea275237f82b5b90269adaccb5d4df4aae20a21c2c2e4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/f35.png"
+hash = "9e8e7b84b2b6302be6ad460e2a231174e4deb40abadad5e32275dd4d452409ca"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/furazka.png"
+hash = "e34b7ce360e20855256f4f4a76e34b1645c8ac320af403ab496761bd7ac7da73"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/general.png"
+hash = "8164cbe774a3c844397b349cfbc3a4ef2f3f3d2c193b0acfa6c5b1ff1255b02e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/ghillie.png"
+hash = "7b7a2d7588fa67e4868e5d1eb12d8bb145588e8f7681c92adc2a6ee88df3534c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/iotv.png"
+hash = "4d3df6432413d20f963bc9c79ff859232ff78f42fb8516acf072f032b2c8ffe3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/iotv_1.png"
+hash = "bf301802f9b00efb062ddad232fe3d40f94091cb5c8b18d7d6ff4c4f78045e59"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/m69ussr.png"
+hash = "af5c7be4faeee7d81b1937fd894c2a438ddf1be59244853813a0c5bf657f692a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/pilot.png"
+hash = "c4c611542cbc8e0319d656465c0be3956d41232a8b7c5ef5ebbdcad6289d6e00"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/tank_hat.png"
+hash = "5e726014b77c4b5d4b382450241cc1a48b81dd19a72d5eb108ca195d05075c78"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/tank_nato.png"
+hash = "b0c537aa873de2dac277044fbe86f036e7ca82162146fd0cf8d2365c1fc1ce30"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/ucp_uniform.png"
+hash = "3488b1c13cf2fd7fcf121dbae7872441d75aaee2ad38b43f53197e4b1a0db5f5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/uniform.png"
+hash = "1ff114021a649774eefa0779f2d2e87bff4d0e5b20e629dc5cfe03067d5f6b2e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/uniform_chest.png"
+hash = "ce8a54dd7b0766ca5cf2a47afbe7452e1f88fd0dfc93af84f9cfbaceb5cd35c6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/uniform_feet.png"
+hash = "cc9c2c6d4ca62516b7f0e1f7c435cfc1050838323e4523eb54c17db6b51be83d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/uniform_legs.png"
+hash = "b24ebb6d5fcff163f9dca618aaafb8f53890d4ea7b303f5c4ce7149ecb8cefe1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/armor/vest.png"
+hash = "2a0c588ab0d06320b6c0851460a39d42c2f59c9a7a33bd79f11a6aa786fe6050"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/1p29.png"
+hash = "f604b8940a1ebad290e7519d788c74fe0e6c0d953eefeb62b64cf496f0d7d89b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/1p87.png"
+hash = "3bd5b1a8acef39b83552e24f15d0f07657cabc652203760aed3f95c802539809"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/552.png"
+hash = "9d43f1eb0ac2c4dd69984a9988d717e70c8721522d3a58bb22b0a9e04c5c5937"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/762silencer.png"
+hash = "55c03bca3d728e64a463236f805b82a0ebb14dced3332a5ebf2e3041db4828bf"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/762silencer_usa.png"
+hash = "09195383c0775af836ba2c683d3542e44ee00aaf0194b4a14f35ca02f6249dc0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/9mmsilencer.png"
+hash = "9fae8ae6b628b334c8b42b1705a994a7b88da3ba2a66a5a6327e712c9e7de4f6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/9mmsilencer_usa.png"
+hash = "10834b15ff76e0b381bba8e0e321d2c5116fc68f617c0aaf326fa7a538437570"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/acog.png"
+hash = "916ebad705c7afa67afdd19d7f24f747d4a16984f7dc9afc44ea26b7aa654bd2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/elcan.png"
+hash = "303ffe9ac774792c1f4ca92297c66cdd1c635d18775e6a3c2f0ef0e242c6bd7c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/hawke.png"
+hash = "d65e4202717cc31d50513f52ce50a011b85d2b921b4a52bfe8da9239022b7eab"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/horizontal_grip.png"
+hash = "e817c802c3d9abf8330d9e87cbd1b095908ef1761bb70c5c4d8b1fd2442dfb65"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/horizontal_grip_usa.png"
+hash = "2b446daec9728c0c6829c29cff766b90842dd6ac884bedc96f21a7e8464ae2ae"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/kobra.png"
+hash = "3457db3e67fa58b86838c7377a541ab1c371be6694f6b6e31adb4d68140c44dd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/mp5silencer.png"
+hash = "f303144f7dee09f19e454d3d6b8d58baa8fe864e31768f923d3752f4a9c4fac3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/pbs1.png"
+hash = "801f537cc137fae91f0c9a91a443152e4952e70a2235e2b00c709aea64b6d992"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/pbs4.png"
+hash = "71a1b0151692a970d38a6c03e4fd087d4bb115ad9688266aa513585c50bcf9a1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/pso1.png"
+hash = "bc1a2cf82b4a276bc93b9bf5d9b3d6ccc7ed606c08ef756535404e4d60e41305"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/qdss.png"
+hash = "abc6c878f39873598861419476b84c42e9b3f82832df9bd7a97830585aff8d80"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/sscope.png"
+hash = "d2fadecfad1bdaa4ae6c6feaf697cfcc868ef471f85cb3aee4c7da10e3030100"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/vertical_grip.png"
+hash = "34618f802239caffa4aa425a2395d884c1a1a730f102524726397ebb9f6cab53"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/attachments/vertical_grip_usa.png"
+hash = "a6bb9cc629b19dd00644ac30528a520b976cf1127accb718d9590cda509f5b44"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/bullets/5_45x39.png"
+hash = "f352b2258026d3037d6f3dc46662a00b10a1d79345030aff132b0d19b76e73f7"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/bullets/5_56x45.png"
+hash = "32a7d66a04e9ee7520d6231233cc4e5662a51220f22db69c3c7837bbd97ac9a6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/bullets/7_62x51.png"
+hash = "159380ceccfc49714ff8d6c33180a24ebba42b639f0bd2b0204933a5783944ad"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/bullets/7_62x54.png"
+hash = "d81545f0494ff454d456f48edb7ad813dece4eb0026794bb446f6dd161488384"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/bullets/9x19.png"
+hash = "c3c86babf53f21ccc7ea6aeee1004df28ad306e326d298a7e382da6f50dc185b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/bullets/9x39.png"
+hash = "7ba2aef8adfdd7c9fb70fb929c6234adedc563f60f50a475c3c4e26b1973ef10"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/grenades/m67.png"
+hash = "acbee63ec7a2c3878265697ec990f51d3174fac18f58097e3d58961fbd523402"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/grenades/rgd5.png"
+hash = "e063d83edd99fc4525dd278936c4580c9a2cf344183ada14c6171709ab59c6cc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/ak12.png"
+hash = "b62825b23faa827abee2815105a7f2c169ccb9097e795b69ef423a18de38a8ab"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/ak74m.png"
+hash = "df8667f444809dcc6bd84ebe3fee262cc3d32607fc5c56cd087b8a12926e38f6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/ak74u.png"
+hash = "250ec6bea3b60da6ca664dbe685a0a2bed3cf534ef609620bb412dbe95358f07"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/an94.png"
+hash = "c3828f33cd9bce1eb6e97556b5fb70f92d3862b747d65d245f24e31719ea0b22"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/asval.png"
+hash = "cdda2a2a41ba6d77f343d67a8c3becc12617d7a0c4f212d9a9c9de306a49c8b2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/bizon.png"
+hash = "10d6c6fdd139eb1b2e398747ab56944fa74f99767922716ccb8c92ca2b83b51f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/grach.png"
+hash = "90175e1edd324b351e4e6293607bab9efceb5c7bdc5617980a085ff24581759f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/hk416.png"
+hash = "e82e7b977a0d44ea88cbc3fdad1e0c2d7786eebc2deabfd06376c92c8625e8b5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/m16a4.png"
+hash = "82561066b7ef70b7c299761be16d5bd05d6ee5693114198dee1fc17175d3d2d2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/m24.png"
+hash = "a959465caedca4dc77fe0ba72bab9d9c71b96a7b4a25bed43d81dc5d301ca193"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/m240b.png"
+hash = "7323553947335ed3baa14017ef31c578145cd9786f2d63b478605b7832d7feae"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/m249.png"
+hash = "821b1cde668f675349e222c45d1be80406e7f09cf7225f74d0dfc7224d412b21"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/m4a1.png"
+hash = "4ed8dc90b224fafba08e5c18d25e822f586b3c131344dd96324bb31b0874b541"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/m9.png"
+hash = "5a64c5287df10b1e5356e22cfc55d61ff316e583f9196c1f626e96571546a46d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/mk14.png"
+hash = "9a6c11608daba0ab1b09a74e8837f8a6cd07e14b64684459dc3b2a1a2626fe0f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/mp5.png"
+hash = "27f583dbbbbbe6dd2521d49f1e1a18edca8a159b01256202d43465d334f577cb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/pkp.png"
+hash = "6cfe9f73a4153d9d65011f3910e9afc1d62c9829fb32b5398348bb71387f5a6f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/rpk74m.png"
+hash = "426a4e6b1ad3fa9fa1d75f6567759ac6133497888ef42dfd013ffee9684482c5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/scarl.png"
+hash = "c8b1f0553b7bb4d025e650d82d5f76d6bf4df27bedece6cb76fda9213ad959c1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/ssr.png"
+hash = "d88df592682562994c47a8f5fc446c7da89d34c82e469a5f6a6632fdbed75daf"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/sv98.png"
+hash = "cb3a00452d3bad953c2e2501df1853584b81840f21bec1be7d332194ded38eb4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/svd.png"
+hash = "97451935553fc5464c69adcae9ccce2ace9a1e32d2fb68ceeb3777ec76e32f61"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/items/guns/vintorez.png"
+hash = "55d62a251700cabaab179e9dd8d00c98039470312b9f2d178717e2d6f0aeeda5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/1p29.png"
+hash = "d02f9a1bef661483566751f8521c5a8ebbd56a08bec5043457c486c672b9c6dd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/1p87.png"
+hash = "9ed93294e6cdfd3f6d963311d2d0960b84eb8b6d18b17e8cc80bbf4cbac7f47f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/552.png"
+hash = "5a3c7568fa85234a9163dc27eecaf3dae7213f237c661882a4768f89ef8459a8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/8x.png"
+hash = "7450103dec973fe5d0043a829b18cb63d048a844a0522e58f5942981f7dd3fcc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/acog.png"
+hash = "33944fc10059df4a5e1e2cc2addf7beb0772ae7b76c7bd484d4dee8c415fae9d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/elcan.png"
+hash = "e207322b277bb0fcb3daf70551131c8900237db73f9c9d2b9871539fadc14616"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/hawke.png"
+hash = "abc100832176dbe1b1994e80a695e487af72edc5da34d29fc9011be610bae32e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/kobra.png"
+hash = "c6783c1f0e75fe0521f7ca45bcad931470fdef494b3924f0aff8913f9f6b5ea3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/textures/overlay/pso1.png"
+hash = "3bc16a30c20670181f31f8cc0b16f7a81e61b23df92424d7cbdd516ea77f2c89"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/ak12.png"
+hash = "d0b96219bb09922a932e4f7dab056448934dbc614a37ba694bd379c6570c67da"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/ak74m.png"
+hash = "c658bedca39ee6ea22f70bfb31750d7f1ebe06e3475b23b3f9a8486826b93fd4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/ak74u.png"
+hash = "742e0f11aa686387ea9977d6a057eac18b1097b5d42cf555ed72b09261a2140f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/an94.png"
+hash = "7ac3ee25993066c161335cd1ea7df4c20549010a9fbbc19c6ff02fc41f813d41"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/asval.png"
+hash = "292baef908343ee7a0e6ad1e111a8b56a302875c5dc6c9f66dc227131477ddc8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/bizon.png"
+hash = "8101b6af09b53a718dea2bed84c2b375e46ee2af0394890aa1356cdd89f26bfd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/grach.png"
+hash = "ab9be479dbf5ddd1f0015f96a0477cb2cce01b2f9d654cce8d6e2612770d3de0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/hk416.png"
+hash = "a1cf14e06c99d6831cfea520bb452c20b3e83625add70b142a658061d1057d65"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/m16a4.png"
+hash = "686ab8e5fe3551b41dfa7be27ba8bc2473a9c4de4f47ddef4885d6eea0794282"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/m24.png"
+hash = "d603bd21283a2d7da0de12587670402d115261d7695a78f373b48c435d59fa07"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/m240b.png"
+hash = "1d003f2beb4e8fd1fa21974a102dbedb57623cc0d53c45e27804a356f8005ea0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/m249.png"
+hash = "c3549025bf71b9fe25bca3dd717caa4c1448a986e0917db99cfbee3bf166e068"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/m4a1.png"
+hash = "2eb4e8aa59cc4fc39ee180a4b24e53cac86ad83429a7effd11667e3832d230c5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/m9.png"
+hash = "b52b3ffad45a5bb6d90e2b5b8c49c3169383aab1d55fe39b68d7726a1ced57ef"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/mk14.png"
+hash = "125e54745077689f30687561bc79cef5a44b1a14843df8da863f6abffab73539"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/mp5.png"
+hash = "cfd6feb62ef2d6caa6c6e9a4128804f7b0bf1f8676e87c56ee5dac144c57270c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/pkp.png"
+hash = "36e96cb2c4daebc89bdad493daa3749f9a24a34eb8d91306a62ed8006da88cab"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/rpk74m.png"
+hash = "4312d7625ead3475825beacf240adab80d83e56d20af8885eaf849e2c591caae"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/scarl.png"
+hash = "4f8efd9658c6394b7c1dc994742d5ad13925f549e24ae7b20887c56a5c933f6c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/ssr.png"
+hash = "458f7c50c14604c89f911f26d8a663df61d10142f85ea4fcc2db7efffa2ce6b0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/sv98.png"
+hash = "1e733cdd3d9c362654572905272dc9b1e73d5b1aede4a99718fbb4bfff865d25"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/svd.png"
+hash = "a8e9fd86403eaf97e9935eb17f403942c65716a005aab8f1cb5b74a46d96b86a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/assets/modularwarfare/ui/type_weapon/vintorez.png"
+hash = "766e7cb9147a000b5b1abfaf0e86fe8fe494468951ebc2e444737f13bc6285c3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/1p29.json"
+hash = "21f7f6bfde774e8a60a0422cddeaac913c6f26d1d4abff6c79bf9bad54ded3cc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/1p87.json"
+hash = "cbf1fa5c214652c20c6a0de30d0fae0a810809931eee8cdcf2088fe6c1d5db96"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/552.json"
+hash = "5262d396b82c6b25bf90b8fbf643cb2136bc69775a53068b8587117dfc3a245c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/762silencer.json"
+hash = "90ad54cce2f45c9bab10fa1b74a41dc9624226c61c8c84732717e2749d8dba18"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/762silencer_usa.json"
+hash = "1aff312bcba323fb5603ba6ef122410cf21a7c33319f1809e199893e30779945"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/9mmsilencer.json"
+hash = "6f87b06cf27a159751e0606644409a8754e1b03b50d3d423a6be740720297c41"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/9mmsilencer_usa.json"
+hash = "bf0f5443b4f0ec9eae66d7c893776f91f240aa5db32eb79e030b5758c048ace7"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/acog.json"
+hash = "df1ce9d11a93b793630d297fe6986487e052320e2dbfb676e8f76a708232c88f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/elcan.json"
+hash = "8ed3395d64c906df1ccd4b653647c644cabf91e0224ccdaf4270d92126613767"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/hawke.json"
+hash = "d9a5eeafb231e01d06ba4e86a72f41f99a0e0d66d894878062d71a3f42e9a96e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/horizontal_grip.json"
+hash = "53725f987a5acd61f3339efbdf1d72fb56d412ab395de6e588b4fd9cd2dbb162"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/horizontal_grip_usa.json"
+hash = "9d09a250bccd20fdb21b6b0da0cb003d38fb4ed10a42ccc187e7da52f5895627"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/kobra.json"
+hash = "916c1625ac1de254a4c587f145e012c5de1a7bc4080deffd3e76e688aedf70ff"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/mp5silencer.json"
+hash = "b3116bb33dc726e183812b3a37f4553bbbdf12f8915b315f6ffe6e2b58b02d6a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/pbs1.json"
+hash = "effff3777a24a44e58e0202b24f63d99ec0a932589949fe3a3f9676e83e2aee8"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/pbs4.json"
+hash = "61c549f79592efbc32458fc6006d008fe0ba8017f3d088fda8ee42102933cb71"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/pso1.json"
+hash = "098d7e1a7e46853f215876cba2183f01e3f794f785d9c8697c2f7eb1a1ea22a9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/qdss.json"
+hash = "bd54ea32c5bc85963f1684595f00d7f73e1c9f92dca19e21559eb0bd1281cc65"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/1p29.render.json"
+hash = "9ff18ff8053f1e61bdbe56c21032a5d9b038ff1a4f44643236c25a80fae7fbcb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/1p87.render.json"
+hash = "80fa5ac54c0195c874f7398f4d0aebef147355b896af31b69429395b19a37af0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/552.render.json"
+hash = "968e6d4e0c564bb2782a5ec52e4f5e3c4c85a3886408ce7de73066ce7685e0da"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/762silencer.render.json"
+hash = "cc2132833db591cc4f32675cfd2ceade2d68a977bb531ca6fad9bf3ceba801f3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/762silencer_usa.render.json"
+hash = "8068c6314063af67a72d3716e93de35ffdaf44a591b0820111c1ac4bf8a0b31e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/9mmsilencer.render.json"
+hash = "7f65194e462a48836d9f25721b2a443898bb2bdc879c20b62e47f403a6d9a4be"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/9mmsilencer_usa.render.json"
+hash = "dbca5e4b2590e69217e8d3c28f2d9166359e61e101a444488ee48fc694d2a111"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/acog.render.json"
+hash = "11fd9ff71972e079f021f7ea0608806d879305c92d932aa47476f25abeab0d1e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/elcan.render.json"
+hash = "bcd35f5ff9081055452496482dc2b01d3a809caa6af9cf3e883925232a390f7d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/hawke.render.json"
+hash = "f2ec98f7b7585ad648cfd38a8925bf26a4a84c383577fa723ee2bce265d65114"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/horizontal_grip.render.json"
+hash = "3dd03599297433244a3acc0258e230ab1873d6d22f8350a41d9239ef3a41813b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/horizontal_grip_usa.render.json"
+hash = "3dd03599297433244a3acc0258e230ab1873d6d22f8350a41d9239ef3a41813b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/kobra.render.json"
+hash = "49b477461dd93b349543082df4b17779b87ad9914d73d86cdc59b5fda7cde4fb"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/mp5silencer.render.json"
+hash = "00e689205813a00a9824b0312f59e1bd52ace826e4cee0a7a3e86541d248b5d4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/pbs1.render.json"
+hash = "57b862be099d6002e7da1e35ae59fe45243b4a9caa6426d43b7a1f2ae7c5a2b5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/pbs4.render.json"
+hash = "011fed22117aea3166f147dbf9eb510feff6c59ed60e585ec3f703b53aa25447"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/pso1.render.json"
+hash = "b2200c8ef69602b19681ce63df1404062258918043a0c22e6df0077c9f650e16"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/qdss.render.json"
+hash = "fb2145893620bc6417a2e9ebcf9c147304cca1054d2b7320b3e75d4159709788"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/sscope.render.json"
+hash = "7cc15ffe6da6af37e1f4f7b47747272f8ec31e04af2733e9109e2df0681b0825"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/vertical_grip.render.json"
+hash = "7a06bf7cb46f47554a6e0fb24c00dc4135e9116c597e34c1192bf45c803c0fbc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/render/vertical_grip_usa.render.json"
+hash = "7a06bf7cb46f47554a6e0fb24c00dc4135e9116c597e34c1192bf45c803c0fbc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/sscope.json"
+hash = "f5e86a9c0bc22480c1dcd40d9962d1fbac06fd98976086ee7697bfc0f71e2da1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/vertical_grip.json"
+hash = "5faec58ec5903e78d48c13814eaca507979ecada9b711429b38ba60d51e6fdb1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/attachments/vertical_grip_usa.json"
+hash = "45e0a4b4dafcbc52fcba83b9dd02c9fc8128b0867cfd3b91159f2ed41306c3a0"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/5_45x39.json"
+hash = "b2317db002ef347d068370fbd2fd673729f7a171eb95c943d9541246fd5cb623"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/5_56x45.json"
+hash = "646c0c8bd9da60c67392e73cdb87a7918908e491240ae8962e9091f34a846d72"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/7_62x51.json"
+hash = "605542880cec030795e17ef4086c6af58b7100dd108873674b50b7e2f1f18278"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/7_62x54.json"
+hash = "744a76c7a805abde5946e59577b2d0e7d51bdae47db9accfc39ddac4bc18b0d4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/9x19.json"
+hash = "ce0ecbf303c4030ffa7fb1afe1687e4db55ed9ff418ac1e2c04cfe3983bc5d72"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/9x39.json"
+hash = "8da1d27a31817001e943ea3c398997919ed10efad052b334aa9b847542f6d46d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/render/5_45x39.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/render/5_56x39.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/render/5_56x45.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/render/7_62x51.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/render/7_62x54.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/render/9x19.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/bullets/render/9x39.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/grenades/m67.json"
+hash = "4f7cf16c1ea325f7932682f120edf35dacf0e602689dd727977ee4d5518f1b6d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/grenades/render/m67.render.json"
+hash = "f2ba4462a4d5917e00e1512128b3168d3ea9d045530990c50c77dde8e5030227"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/grenades/render/rgd5.render.json"
+hash = "0a3b237cfda6ee5dc242eb229e1ba9789e0aafd4a0d15971026bb0d78226fd08"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/grenades/rgd5.json"
+hash = "8676c6130998abf9bd5f5ee900e332ab3f59f8a1705c61d8ce094c048ad15198"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/ak12.json"
+hash = "aebc7f2fa566a31079ff15210f0930bd8c1fb0582d9f1f7e02f41127964c2eec"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/ak74m.json"
+hash = "5000271b3cf21785d600024560916a53896b20566f3dc7307e6b2a37422975ee"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/ak74u.json"
+hash = "9386b44da90f90220551f8dec04aef27e547f089cf2473127cb8abd6576019b3"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/an94.json"
+hash = "e7d095741e23863590bc79dc560c65f972701d87566748bf0d3e1b856971519e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/asval.json"
+hash = "dc78c42b3b5198bafe8e6661317b179979e2b25e32ecee679fe99132bb272b42"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/bizon.json"
+hash = "19e5ecc80ec9371191125d49897262ac08b892d4e6ca58d3bd5df4564b48dc41"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/grach.json"
+hash = "376fcdc482150b6cfb2d2676416542c2307c787dcd1683c3b41f0c199433c7da"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/hk416.json"
+hash = "699ec23b2f58af444d80d71a1095a9552d67763b765760abff63670c81f531ca"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/m16a4.json"
+hash = "36acb786ecaea29307da4d4c44c36d1df4c2c0759c60de6523edb468d3e281c9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/m24.json"
+hash = "45df286e2d7e20ab327409b6d9c60c0691d40f2e3548098247f31a9501e1a11e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/m240b.json"
+hash = "801219ce5ffe35bb92a54119376772d4d1f1af0de6d319854596bfeea8c6138e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/m249.json"
+hash = "82208d2627f2b968b0ca4168b93268feee52c657c9532bf9cc1dee224d928ff6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/m4a1.json"
+hash = "6d1194fc1605a874390b13a5d0f988f3cc698fae38ce0d70deb12b435920c971"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/m9.json"
+hash = "d80170f3d65ca367d841c6915f158059102a9bad488af86055f3f4a2ee1e2096"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/mk14.json"
+hash = "d83601ce05dfa2b54c974ea98bcb75c4e5bb622c98408cc65963ece5250e5490"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/mp5.json"
+hash = "8af1cb6828e8d022944b82ae393c40703f4e1185064f26086fe3983efcc55f90"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/pkp.json"
+hash = "3f9faa4cbb29f104efffd58abf0c70750286f24ba31066354d113bbc6a6083d5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/ak12.render.json"
+hash = "c9a2a5c270265e0f375345d441abaad9333b9bad6c97a493ef10598b4634a774"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/ak74m.render.json"
+hash = "fef6d1289a0df70873c49d88d6ea9dd19420ee310b607f3c5c59036e40e5b66d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/ak74u.render.json"
+hash = "97572132c14050ab6ca56fb188a09388fa7d0cca57395aa2dcc6e9c28bb7b551"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/an94.render.json"
+hash = "cc33609cb19f005a228c0035f6185643fb1430efcd3739bed077e210936a4992"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/asval.render.json"
+hash = "c2a7078d7787785b972580b1339067007824f998f2c34ce8d42aff11a91d4024"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/bizon.render.json"
+hash = "a28b81c61c254e4af12fca3d202e41c408d18141caf505a239548debe72c9d5d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/grach.render.json"
+hash = "2402388ec3fb855631de25df37106a3da3790d1f711c059b2aec24ae3b634609"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/hk416.render.json"
+hash = "3b1f6187e5e3cdb2077f7e827235b2f930b46b4e96b0107c84eb8f695df3b192"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/m16a4.render.json"
+hash = "e05e99583c9e11ee2a1467765a2f77f6c359211cfd0cade2c3a510be2f9e0b8b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/m24.render.json"
+hash = "4fc80136c4ae1e326d5381fbe20f1bf292d8baf5720cb68e6910fc081866a00d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/m240b.render.json"
+hash = "202dd38003c93f4b0c52fdefe04f498cac7f8d130482e4109af80b88f88c2d66"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/m249.render.json"
+hash = "7cfa5fa383f3522c355c945d477825f0d8ebb98195d2e455af3c8136fa57adfc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/m4a1.render.json"
+hash = "b7ab5396973c027db61258aafee6891403998144bd46d408701edbd35fe49f01"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/m9.render.json"
+hash = "938e67cec01e87329864837d7625f53f616c4acaa0f2958e3287ab2b28f109bf"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/mk14.render.json"
+hash = "f1faf72a94cb3d5ef42745764084556b60532b4db2ef42e0c18503a750feca93"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/mp5.render.json"
+hash = "0c0b1888e5bdc53476b4a569330346a18a6b033d6686aee3721e304860e5889c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/pkp.render.json"
+hash = "fef41be0dfc8eef1be5206a8e00c4721376001eedef89a691ec4bf93b1017f90"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/rpk74m.render.json"
+hash = "0525e0f9ee16212e56c6b501503adac0d6ba8a3746599bb30829da8b579f5b2e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/scarl.render.json"
+hash = "b41c62ea67934baa02959241009ee506a6519e9e511b051da5a4d22069eee579"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/ssr.render.json"
+hash = "692158074dda6df3531794c6466ab3671a17573b5e2683ba0e22904f149c914f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/sv98.render.json"
+hash = "aa399a015b7dbd63d12414342808aa95af559fde190863248c6dc2f1fcac3c26"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/svd.render.json"
+hash = "ed620ac6a6eff96c9fd34937f9a027dba796075c418edd4806bb0eecf9196692"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/render/vintorez.render.json"
+hash = "7fa2ee87293fb2f09e4a756c7a9ef8dea7792d9a204fed6df69047c0e8fd511b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/rpk74m.json"
+hash = "360d4a0cd453a5f4d0053a41d839350006ca9c60894bcb8dbe82ecb6c518a772"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/scarl.json"
+hash = "4755e3bd29c43a197c979fb2b342365833b2ee2390973122a697d9bb4b1e4e04"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/ssr.json"
+hash = "7042de07950423e1ebf908a4ac2ac19661477cf30225c4985b034301b6c965f6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/sv98.json"
+hash = "03a2f67b0393250e053b82614ef7f1af96bc76776017094387f541a2cccbd870"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/svd.json"
+hash = "1a6d3e231971946dd3841e311f541d39bc15f87c25cdbdf68fde4dba0f3b9cfd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/guns/vintorez.json"
+hash = "96750cb2a18a520d9b37c37c27119c95180235a7fa9e693e6da106f54cc4c8f5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/107.obj"
+hash = "bc09b3b4015852147c76b271b4de610632592fc557e0c1e6f6aed1234a839a62"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/1pilot.obj"
+hash = "38c021af07b75cb4cfb799da99b38e770ffeb7ac53ef23add92dcd2990112b4b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/6b27.obj"
+hash = "f679750196a13033ea45aeaec5a50336bb82f8ae90b1d81833d854871226f4e6"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/6b3.obj"
+hash = "3533be002c8a3a86e92f3bdc120f086275f4754c623c2f7ad50dfbd4660acbc9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/6b33.obj"
+hash = "ff845f550e41b691a1260f18c3969069bb58c837270efd24a18c154ccfb81654"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/6b45.obj"
+hash = "548e7e6b6e40eb15f8828443d090016d4585c6b940ace080db0f0862c48e558b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/6b45_1.obj"
+hash = "567652f66b8ffd7d75596f08a427809d67954f818c2935282b2ff232981a6c10"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/ach.obj"
+hash = "626a2be1a5fd2ec53435cde4626fe082dcff901fbc84331caf62391347dd4eb5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/afgan.obj"
+hash = "25f05c14297e2fb046903f64d8e63f30b67e49b1d0b092f728002b15cbff011e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/avs.obj"
+hash = "bc2769d00971065e1747070fe43d6707a27ad9ffb579e26f4ccb30011b217434"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/balaclava.obj"
+hash = "7ce143afc0b6728c32ed6ae623bdf9247ea150f93857bc611698013d5be4b8fe"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/beret.obj"
+hash = "7b3a1ed36d54586d887f940aa402c089d4bd8d6cb0bd96e913278217358e3b32"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/cap.obj"
+hash = "3a2358f52fa4da3df985568dedcaf1b74c6b3554bea9632c8dbe9fce3e28b834"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/eyepro.obj"
+hash = "03c19874a025037aa6d7f1b6edfe38860f1730d3ec4a3eebfd670e6430ff7228"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/f35.obj"
+hash = "a5818f99b14b9d9a869fa71fce37d8218134e795987c4d97363de604beec668a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/furazka.obj"
+hash = "98fb54a57adfce76d4d3a40822c670aae8e2f2196fe84b6e5f280f3df5745137"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/general.obj"
+hash = "018262004a3124dbefcc9d5759d94e5245074422e553c3de7279adb30a319450"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/ghillie.obj"
+hash = "b50950da0db8e785e30e013d9cfa977475c626826d4fd4fc5c713979f4ac2871"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/iotv.obj"
+hash = "9e3db56484eb929be9f7674d554bdbdcbc03726ec378706524c5957c529a9b27"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/iotv_1.obj"
+hash = "5e63d981042b8f80f332949c46aecf109b366a72dc15ccab757a9ec62c614c68"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/m69ussr.obj"
+hash = "d0535522e3a8dcd3d43a72fc1a38b777791f844b051d259ca5ddda0bdef45a0b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/pilot.obj"
+hash = "38c021af07b75cb4cfb799da99b38e770ffeb7ac53ef23add92dcd2990112b4b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/tank_hat.obj"
+hash = "42e3e6c4692be70d57748e61824adfa45dfe16c77c3b0e54dd9dee4ff383f02d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/tank_nato.obj"
+hash = "af1ffb6bc4ba8eaa47c5dae14469b8193009566afab6cc34993e07848786bb7c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/ucp_uniform.obj"
+hash = "4fa8b183c45d7041a91b3aceeab92b102872426760a2e0e13c2e9f11ea468d66"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/armor/uniform.obj"
+hash = "ce63628586c61d2d695c521fb3d0e307af4fab533cd3579af82942bc53c83966"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/1p29.obj"
+hash = "a50b1e7a0512bdca07317a901e7ac4c033c07e36a3e3765a9c365497bb14cc40"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/1p87.obj"
+hash = "8d4a13600a0f7a3abb586e4dc10afacff6c3ffcbc0e7afc92d230861bdb78a43"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/1p87_1.obj"
+hash = "727e5bdb1b08096e69e47b7e81b36db15b5f6283106e43faea34294eb84a8565"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/552.obj"
+hash = "98aa3b67433e9ff0fa1819d717ea177531a0a28b5c90e2d5ebbd747ec9413b2c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/762silencer.obj"
+hash = "69de59c68fd104c8aefa50021901fe948d8002adf4b50e23a0c7cb64b4b3d292"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/762silencer_usa.obj"
+hash = "03da13b287fa6948242d4ed095f8b18fba012899004566ff28cb4927c34a5a0b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/9mmsilencer.obj"
+hash = "2686e5cfe90cb60dc9dc73fb0a56792f7f3d241c61b5d39329e86f3cdeea898e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/acog.obj"
+hash = "38802747772d48cbbd6ab8ce27383fe52b07ebda01b5195ebaca4692a9a69136"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/elcan.obj"
+hash = "034f763661d24fa83ec32e88a49a0a3e7fff270e67c69001afba272509e23957"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/hawke.mtl"
+hash = "0520afaf83a1147ea57a1987cf47fd207f1eba70353287dac89577880c318553"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/hawke.obj"
+hash = "2cee9ef2efc9cb43ae23387917084cb46badadbb678b2be5156251a5da84b838"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/hawke_1.obj"
+hash = "7c10db29412eb4f69664efcc70fa12a102a4c502ef70e3bacb354b7a1b407231"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/horizontal_grip.obj"
+hash = "e6a90070d30b122f11d5261824f624f0647b15f31ad520fbd4c041d4dbe11f91"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/kobra.obj"
+hash = "c7538547aea68922647acbe17729184be36c82529a85979f2fa9825692a44c4f"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/mp5silencer.obj"
+hash = "751315279d4d79e6c8d23a1da81b8fae79cd84cb8abde994bb790e3697d57794"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/pbs1.obj"
+hash = "44e36d169929e6ea21858a087ba9e70738982fa0be8ab5ddc3cd6af16041ebe1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/pbs4.obj"
+hash = "5bb3cfa6378509b1765e456b92ac58b9d3df262037bbf85d2d7de6b17dc85564"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/pso1.obj"
+hash = "ad4648a0c30be0203f8538851b5ca38c2f625792bcab2120c389d16ac636c1fc"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/qdss.obj"
+hash = "ca97636db7917e9ae78b5ed2f52aefcab418d118cc78810fa3d14f5307b9410a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/sscope.obj"
+hash = "cba69b85166c8ee3686dd42a0cb9a8f59480c34a0950d208b55d971909c4817d"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/attachments/vertical_grip.obj"
+hash = "d286966b72e0d1378841699f4fd939c1f5a25e11075d61bf46013353d19260f4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/grenades/m67.obj"
+hash = "166a0d118a0710baf42e90c5ba1d4c5c23fe606cfab194ada92dee357ff29452"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/grenades/rgd5.obj"
+hash = "755ef4654323e9f2d7f324288fdf8d254510683479e6b5c26f8ca2e27c0132e2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/ak12.obj"
+hash = "630241c9da63e7ff4463ddb584fbbe6dee80f9b395024e402726d6653842823b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/ak74m.obj"
+hash = "05ff46baa5e688dd8f395f311c5688b826e69e3294623dbd2c5d128014a3dcab"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/ak74u.obj"
+hash = "c98eba11999c8b4891d0a5502982f1b78e8f2aa532e29a58069b18d3f3a9f342"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/an94.obj"
+hash = "d34d2d036cb15398e21532c15b8b22e13d344299eda017b06e01342ba9b6573c"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/asval.obj"
+hash = "38341c097d0f264dbd1ecb23e3c8d1083d2554e9e893859d63e86debfa8be278"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/bizon.obj"
+hash = "d3e647b834f3f8daa3ca7a3787aa58bd048f800799cdab3a5ec3598e3409b083"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/grach.obj"
+hash = "991c7a0c8b6318ca4862f935eb15b27f9ec002b78c0cecdc3459df6aac8bbc8b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/hk416.obj"
+hash = "72c13b323495012f18efbd9868dd4135e3cdf76d0585bb75533381c01bf06f13"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/m16a4.obj"
+hash = "56ab52e8dd8ae74c9da59e09a5d38d00e6bafe2425a380f619987ed6342f7665"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/m24.obj"
+hash = "738c0221c0d8188f30b6ce54cff7bb8d60839c3a415700d5df6619b8fd5fb1b1"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/m240b.obj"
+hash = "04bd8b27eb2c2936190c5e8ca01da74e72256bf96e822da54ab082d6d3d32925"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/m249.obj"
+hash = "93c6a0ca96fb6d1483e9dbfab98a5e7fba9692680f2cfd0d88a988a20c1cfe22"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/m4a1.obj"
+hash = "0b2bf989cac1f519a800dfe351d41e0a3f346df4bfd2791ea8e70dd0b3379e79"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/m9.obj"
+hash = "ff5008081c5f603c3e6e4405158d8e6f9720e4f463b0cff3f3f4d8a1e9543696"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/mk14.obj"
+hash = "2d182a41f1c77c0eacde2e92b7aa05398a35794f222dc50de5812316a2a4d153"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/mp5.obj"
+hash = "13959cc11eb21ce7ceb57f7b4b40d90c5779fbd4b17ef82735e39a9cf2508905"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/pkp.obj"
+hash = "96d72e4ca6c3885d3c3196bd5ca16261722ddc397a9198ebbf79c27627b1d47b"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/rpk74m.obj"
+hash = "198ce84aa28dbf87e9574a455c0f612ca06c12273791e656133005d8ad35ecff"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/scarl.obj"
+hash = "344d33fcef802beb7a68873b70267cfe7de7743e72f73400491edba6f3f2d746"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/ssr.obj"
+hash = "8d51c84fbb704aee717b20c28f3f0aaedd8946046f43f5cbda9e942066129e82"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/sv98.obj"
+hash = "27e22f60a1b880e8956f5232c9a9bd9ae2bbb408db3f7c03703e6b8d77ad78dd"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/svd.obj"
+hash = "f8b68bc6828c45f9a02833ce06f97fcc461838632e44e1e7a2f525ab0ecda90a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/guns/vintorez.obj"
+hash = "1444958fd7dca45d8877c3a912b786ab0cbe2a06dcc33e05d64febf2bc41c844"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/license.txt"
+hash = "1a241a723b89bf128aa37ab78b06657130bf7c6d7b3e18de8dfad37bb899fb01"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/obj/shells/default.obj"
+hash = "68efc1446bcd686c62e7cc2bec974d37625790beaab35420aa42ef297a0cc9ba"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/1p29.json"
+hash = "3f51803504d9e7772bd41d249ab7fd1989daa63fc1cf8770cb9b97f2fb6fb8d2"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/1p87.json"
+hash = "d8a18bf1fe2d5b43954ba8f1a0509d174559117151a5e6f7d5950e47676524c5"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/552.json"
+hash = "56fd94401f8463828976fa4382810811a470ffb1012d01b092818d3780601f2e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/acog.json"
+hash = "fb5a72155b81f86a3e874d526af6ed4ebd85a95e65d28081f2a085e9db9ee77e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/advancedd.flash.json"
+hash = "475f668c30c93bafa5fd29c7800e01276aa131e9135a13f3c36a3498ec87d2e4"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/elcan.json"
+hash = "d0f124d485717132032365a93f012a7863b8dec22665f3628849005d0a6ae748"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/flashh.json"
+hash = "08a7ba4f2a1196a648fbb443f8509895bb85ce48b9b60bf81211206d6d4051f9"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/hawke.json"
+hash = "9b0aba4f809bba28a9320a63cbcad7239ae53fb3cac8d939d90607ec24c6d059"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/kobra.json"
+hash = "73299e9ae1c221ba28114754f42a7e37c3768506ea157255aa728c0a6850ed5a"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/pso1.json"
+hash = "d1ac7e20b30bd5c8c023cf1fcced72d499db0da1bd61449368bb1021f85cd79e"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/1p29.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/1p87.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/552.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/8x.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/acog.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/advancedd.flash.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/elcan.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/flashh.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/hawke.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/holo.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/kobra.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/render/pso1.render.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "ModularWarfare/MilitaryPack-1.0.2/textures/sscope.json"
+hash = "dc0c048ffc2c6dfb5bd6f5b0da8813068d7f978a88c5fb3394cff1e4e194e157"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "ef09575b844751fe0b9add05d237eb2264541c831447dbd51620168d719f2aaf"
 

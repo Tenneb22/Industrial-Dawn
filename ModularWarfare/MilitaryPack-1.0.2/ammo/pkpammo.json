@@ -1,0 +1,10 @@
+{
+    "internalName": "pkpammo",
+    "displayName": "PKP Mag 100rnd",
+    "ammoCapacity": 100,
+    "magazineCount": 1,
+    "subAmmo": [
+        "7_62x54"
+    ],
+    "allowEmptyMagazines": true
+}

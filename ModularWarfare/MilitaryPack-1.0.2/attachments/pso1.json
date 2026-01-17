@@ -1,0 +1,16 @@
+{
+  "displayName": "PSO-1",
+  "internalName": "pso1",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "pso1",
+      "displayName": "PSO-1 - Default"
+    }
+  ],
+  "sight": {
+	"scopeType": "default",
+    "customOverlayTexture": "pso1",
+    "modeType": "pip"
+  }
+}

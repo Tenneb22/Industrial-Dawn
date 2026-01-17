@@ -1,0 +1,10 @@
+{
+    "internalName": "scarlammo",
+    "displayName": "SCAR-L Mag 30rnd",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "5_56x45"
+    ],
+    "allowEmptyMagazines": true
+}

@@ -1,0 +1,19 @@
+{
+    "internalName": "ucp_uniform",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "UCP Uniform Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "ucp",
+        "displayName": "UCP Uniform - Default"
+      }
+    ]
+}

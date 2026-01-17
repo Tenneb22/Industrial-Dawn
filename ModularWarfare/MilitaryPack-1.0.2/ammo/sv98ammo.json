@@ -1,0 +1,10 @@
+{
+    "internalName": "sv98ammo",
+    "displayName": "SV-98 Mag 10rnd",
+    "ammoCapacity": 10,
+    "magazineCount": 1,
+    "subAmmo": [
+        "7_62x54"
+    ],
+    "allowEmptyMagazines": true
+}

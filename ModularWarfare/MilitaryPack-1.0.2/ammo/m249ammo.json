@@ -1,0 +1,10 @@
+{
+    "internalName": "m249ammo",
+    "displayName": "M249 Mag 100rnd",
+    "ammoCapacity": 100,
+    "magazineCount": 1,
+    "subAmmo": [
+        "5_56x45"
+    ],
+    "allowEmptyMagazines": true
+}

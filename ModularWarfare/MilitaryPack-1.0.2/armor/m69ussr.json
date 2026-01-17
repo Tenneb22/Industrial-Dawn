@@ -1,0 +1,19 @@
+{
+    "internalName": "m69ussr",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "M69USSR Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "m69ussr",
+        "displayName": "M69USSR - Default"
+      }
+    ]
+}

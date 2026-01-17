@@ -1,0 +1,19 @@
+{
+    "internalName": "tank_hat",
+    "defense": "0.1",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "Tank Hat"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "tank_hat",
+        "displayName": "Tank Hat - Default"
+      }
+    ]
+}

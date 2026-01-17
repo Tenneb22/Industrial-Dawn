@@ -1,0 +1,9 @@
+{
+  "modelFileName": "762silencer_usa.obj",
+  "extra": {
+    "modelScale": 0.7
+  },
+  "barrel": {
+    "hideMuzzleFlash": true
+  }
+}

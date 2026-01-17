@@ -1,0 +1,9 @@
+{
+  "modelFileName": "9mmsilencer.obj",
+  "extra": {
+    "modelScale": 0.65
+  },
+  "barrel": {
+    "hideMuzzleFlash": true
+  }
+}

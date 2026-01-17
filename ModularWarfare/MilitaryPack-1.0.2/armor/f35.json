@@ -1,0 +1,19 @@
+{
+    "internalName": "f35",
+    "defense": "0.15",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "F35"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "f35",
+        "displayName": "F35 - Default"
+      }
+    ]
+}

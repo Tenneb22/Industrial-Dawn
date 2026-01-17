@@ -1,0 +1,444 @@
+{
+  "generic.load": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:load"
+    ]
+  },
+  "generic.unload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:unload"
+    ]
+  },
+  "generic.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:reload"
+    ]
+  },
+  "ak47.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak47/shoot1",
+      "modularwarfare:ak47/shoot2",
+      "modularwarfare:ak47/shoot3",
+      "modularwarfare:ak47/shoot4"
+    ]
+  },
+  "ak47.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak47/suppressed1",
+      "modularwarfare:ak47/suppressed2"
+    ]
+  },
+  "ak47.shoot.distant": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak47/distant"
+    ]
+  },
+  "ak12.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak12/shoot"
+    ]
+  },
+  "ak12.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak12/suppressed"
+    ]
+  },
+  "ak12.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak12/reload"
+    ]
+  },
+  "ak74m.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74m/shoot"
+    ]
+  },
+  "ak74m.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74m/suppressed"
+    ]
+  },
+  "ak74m.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74m/reload"
+    ]
+  },
+  "ak74u.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74u/shoot"
+    ]
+  },
+  "ak74u.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74u/suppressed"
+    ]
+  },
+  "ak74u.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74u/reload"
+    ]
+  },
+  "an94.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:an94/shoot"
+    ]
+  },
+  "an94.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:an94/suppressed"
+    ]
+  },
+  "an94.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:an94/reload"
+    ]
+  },
+  "asval.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:asval/shoot"
+    ]
+  },
+  "asval.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:asval/reload"
+    ]
+  },
+  "bizon.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:bizon/shoot"
+    ]
+  },
+  "bizon.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:bizon/suppressed"
+    ]
+  },
+  "bizon.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:bizon/reload"
+    ]
+  },
+  "grach.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:grach/shoot"
+    ]
+  },
+  "grach.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:grach/suppressed"
+    ]
+  },
+  "grach.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:grach/reload"
+    ]
+  },
+  "hk416.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hk416/shoot"
+    ]
+  },
+  "hk416.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hk416/suppressed"
+    ]
+  },
+  "hk416.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hk416/reload"
+    ]
+  },
+  "m4a1.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m4a1/shoot"
+    ]
+  },
+  "m4a1.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m4a1/suppressed"
+    ]
+  },
+  "m4a1.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hk416/reload"
+    ]
+  },
+  "m9.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m9/shoot"
+    ]
+  },
+  "m9.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m9/suppressed"
+    ]
+  },
+  "m9.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m9/reload"
+    ]
+  },
+  "m16a4.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m16a4/shoot"
+    ]
+  },
+  "m16a4.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m16a4/suppressed"
+    ]
+  },
+  "m16a4.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:hk416/reload"
+    ]
+  },
+  "m24.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m24/shoot"
+    ]
+  },
+  "m24.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m24/suppressed"
+    ]
+  },
+  "m24.bolt": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m24/bolt"
+    ]
+  },
+  "m24.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m24/reload"
+    ]
+  },
+  "sv98.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sv98/shoot"
+    ]
+  },
+  "sv98.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sv98/suppressed"
+    ]
+  },
+  "sv98.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sv98/reload"
+    ]
+  },
+  "sv98.bolt": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sv98/bolt"
+    ]
+  },
+  "m249.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m249/shoot"
+    ]
+  },
+  "m249.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m249/suppressed"
+    ]
+  },
+  "m249.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m249/reload"
+    ]
+  },
+  "mk14.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mk14/shoot"
+    ]
+  },
+  "mk14.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mk14/suppressed"
+    ]
+  },
+  "mk14.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mk14/reload"
+    ]
+  },
+  "mp5.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5/shoot"
+    ]
+  },
+  "mp5.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5/suppressed"
+    ]
+  },
+  "mp5.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5/reload"
+    ]
+  },
+  "rpk74m.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rpk74m/shoot"
+    ]
+  },
+  "rpk74m.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rpk74m/suppressed"
+    ]
+  },
+  "rpk74m.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:rpk74m/reload"
+    ]
+  },
+  "scarl.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:scarl/shoot"
+    ]
+  },
+  "scarl.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:scarl/suppressed"
+    ]
+  },
+  "scarl.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:scarl/reload"
+    ]
+  },
+  "ssr.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ssr/shoot"
+    ]
+  },
+  "ssr.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ssr/suppressed"
+    ]
+  },
+  "ssr.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:scarl/reload"
+    ]
+  },
+  "svd.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/shoot"
+    ]
+  },
+  "svd.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/suppressed"
+    ]
+  },
+  "svd.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/reload"
+    ]
+  },
+  "vintorez.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:vintorez/shoot"
+    ]
+  },
+  "vintorez.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:vintorez/reload"
+    ]
+  },
+  "pkp.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pkp/shoot"
+    ]
+  },
+  "pkp.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pkp/reload"
+    ]
+  },
+  "m240b.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m240b/shoot"
+    ]
+  },
+  "m240b.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:m240b/reload"
+    ]
+  }
+}

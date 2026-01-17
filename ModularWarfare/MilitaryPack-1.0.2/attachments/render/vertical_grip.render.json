@@ -1,0 +1,13 @@
+{
+  "modelFileName": "vertical_grip.obj",
+  "extra": {
+    "modelScale": 0.7
+  },
+  "grip": {
+    "leftArmOffset": {
+      "x": 0.02,
+      "y": -0.03,
+      "z": 0.0
+    }
+  }
+}

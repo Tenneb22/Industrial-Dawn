@@ -1,0 +1,15 @@
+{
+  "displayName": "MP5 Silencer",
+  "internalName": "mp5silencer",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "mp5silencer",
+      "displayName": "MP5 Silencer - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

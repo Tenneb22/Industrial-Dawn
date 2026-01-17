@@ -1,0 +1,9 @@
+{
+  "modelFileName": "qdss.obj",
+  "extra": {
+    "modelScale": 0.9
+  },
+  "barrel": {
+    "hideMuzzleFlash": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "internalName": "m240bammo",
+    "displayName": "M240B Mag 100rnd",
+    "ammoCapacity": 100,
+    "magazineCount": 1,
+    "subAmmo": [
+        "7_62x51"
+    ],
+    "allowEmptyMagazines": true
+}

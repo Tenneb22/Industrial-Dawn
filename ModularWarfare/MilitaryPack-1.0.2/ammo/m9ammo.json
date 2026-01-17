@@ -1,0 +1,10 @@
+{
+    "internalName": "m9ammo",
+    "displayName": "Beretta M9 Mag 15rnd",
+    "ammoCapacity": 15,
+    "magazineCount": 1,
+    "subAmmo": [
+        "9x19"
+    ],
+    "allowEmptyMagazines": true
+}

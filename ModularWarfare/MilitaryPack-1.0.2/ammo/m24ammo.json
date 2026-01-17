@@ -1,0 +1,10 @@
+{
+    "internalName": "m24ammo",
+    "displayName": "M24A2 Mag 10rnd",
+    "ammoCapacity": 10,
+    "magazineCount": 1,
+    "subAmmo": [
+        "7_62x51"
+    ],
+    "allowEmptyMagazines": true
+}

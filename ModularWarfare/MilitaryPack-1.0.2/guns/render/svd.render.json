@@ -1,0 +1,232 @@
+{
+  "modelFileName": "svd.obj",
+  "arms": {
+    "leftHandAmmo": true,
+    "actionArm": "Left",
+    "leftArm": {
+      "armScale": {
+        "x": 1.1,
+        "y": 1.6,
+        "z": 1.1
+      },
+      "armPos": {
+        "x": -0.8,
+        "y": -1.16,
+        "z": 0.02
+      },
+      "armRot": {
+        "x": 87.0,
+        "y": 26.0,
+        "z": -60.0
+      },
+      "armReloadPos": {
+        "x": -1.175,
+        "y": -1.18,
+        "z": -0.2
+      },
+      "armReloadRot": {
+        "x": 35.0,
+        "y": 0.0,
+        "z": -25.0
+      }
+    },
+    "rightArm": {
+      "armScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "armPos": {
+        "x": 0.25,
+        "y": -0.85,
+        "z": 0.0
+      },
+      "armRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -90.0
+      },
+      "armReloadPos": {
+        "x": 0.21,
+        "y": -0.81,
+        "z": 0.0
+      },
+      "armReloadRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -90.0
+      },
+      "armChargePos": {
+        "x": 0.47,
+        "y": -0.39,
+        "z": 0.14
+      },
+      "armChargeRot": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -90.0
+      }
+    }
+  },
+  "sprint": {
+    "sprintRotate": {
+      "x": 0.0,
+      "y": 50.0,
+      "z": -0.0
+    },
+    "sprintTranslate": {
+      "x": 1.3,
+      "y": -0.1,
+      "z": -0.75
+    }
+  },
+  "thirdPerson": {
+    "thirdPersonOffset": {
+      "x": -0.025,
+      "y": -0.099,
+      "z": 0.05
+    },
+    "backPersonOffset": {
+      "x": 0.0,
+      "y": -0.1,
+      "z": 0.0
+    },
+    "thirdPersonScale": 0.75
+  },
+  "aim": {
+    "rotateHipPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "translateHipPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotateAimPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "translateAimPosition": {
+      "x": 0.1,
+      "y": 0.01,
+      "z": 0.002
+    }
+  },
+  "attachments": {
+	"attachmentPointMap": {
+      "barrel": [
+        {
+          "x": 0.35,
+          "y": 0.02,
+          "z": -0.005
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ]
+	},
+     "positionPointMap": {
+	  "kobra": [
+        {
+          "x": -7.0,
+          "y": 1.2,
+          "z": 0.05
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ],
+	  "pso1": [
+        {
+          "x": -7.0,
+          "y": 0.3,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ],
+	  "1p29": [
+        {
+          "x": -7.0,
+          "y": 0.3,
+          "z": 0.0
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ]
+    },
+    "aimPointMap": {
+      "kobra": [
+        {
+          "x": 0.4,
+          "y": -1.6,
+          "z": -0.08
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ],
+	  "pso1": [
+        {
+          "x": -0.3,
+          "y": -0.8,
+          "z": 0.15
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ],
+	  "1p29": [
+        {
+          "x": 2.3,
+          "y": -1.165,
+          "z": 0.225
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      ]	  
+	}
+  },
+  "itemFrame": {
+    "translate": {
+      "x": 2.0,
+      "y": 0.0,
+      "z": 0.0
+    }
+  },
+  "extra": {
+    "translateAll": {
+      "x": 9.2,
+      "y": -0.2,
+      "z": -0.1
+    },
+    "modelScale": 1.1,
+    "gunOffsetScoping": 0.0,
+    "crouchZoom": -0.01,
+    "adsSpeed": 0.07,
+    "gunSlideDistance": 0.15,
+    "modelRecoilBackwards": 0.03,
+    "modelRecoilUpwards": 5.0,
+    "modelRecoilShake": 0.5
+  }
+}

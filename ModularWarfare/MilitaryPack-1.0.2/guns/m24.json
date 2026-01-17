@@ -1,0 +1,87 @@
+{
+    "internalName":"m24",
+    "displayName":"M24A2",
+    "weaponType":"boltsniper",
+    "customFlashTexture":"advancedd.flash",
+    "gunDamage":25,
+    "gunDamageHeadshotBonus":2.8,
+    "roundsPerMin":40,
+    "allowEmptyMagazines":true,
+    "recoilPitch":1.8,
+    "recoilYaw":0.5,
+    "randomRecoilPitch":0.2,
+    "randomRecoilYaw":0.2,
+    "bulletSpread":0.0,
+    "accuracySneakFactor":0.5,
+    "moveSpeedModifier":0.89,
+    "allowSprintFiring":false,
+	"reloadTime":60,
+    "fireModes":[
+        "semi"
+    ],
+    "acceptedAmmo":[
+        "m24ammo"
+    ],
+    "dropBulletCasing":true,
+    "shellEjectOffsetNormal":{
+        "x":-1.0,
+        "y":0.0,
+        "z":1.0
+    },
+    "shellEjectOffsetAiming":{
+        "x":-0.2,
+        "y":0.12,
+        "z":0.5
+    },
+    "weaponSoundMap":{
+        "weaponFire":[
+            {
+                "soundEvent":"weaponFire",
+                "soundName":"m24.shoot",
+                "soundNameDistant":"ak47.shoot.distant",
+                "soundRange":100,
+                "soundMaxRange":150,
+                "soundFadeMultiplier":1
+            }
+        ],
+        "weaponReload":[
+            {
+                "soundEvent":"weaponReload",
+                "soundName":"m24.reload"
+            }
+        ],
+        "weaponFireSuppressed":[
+            {
+                "soundEvent":"weaponFireSuppressed",
+                "soundName":"m24.shoot.sup",
+                "soundRange":60,
+                "soundMaxRange":90,
+                "soundFadeMultiplier":1
+            }
+        ],
+         "weaponBolt": [
+            {
+                "soundEvent": "weaponBolt",
+                "soundName": "m24.bolt"
+            }
+        ]
+    },
+	"acceptedAttachments": {
+		"sight": [
+            "552",
+			"hawke",
+			"acog",
+			"elcan"
+        ],
+		"barrel": [
+		    "762silencer_usa"
+		]
+	},
+    "modelSkins":[
+        {
+            "internalName":"m24",
+            "skinAsset":"m24",
+            "displayName":"Default"
+        }
+    ]
+}

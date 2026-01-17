@@ -1,0 +1,19 @@
+{
+    "internalName": "avs",
+    "defense": "0.3",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "legs": 
+        {
+            "displayName": "AVS Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "avs",
+        "displayName": "AVS - Default"
+      }
+    ]
+}

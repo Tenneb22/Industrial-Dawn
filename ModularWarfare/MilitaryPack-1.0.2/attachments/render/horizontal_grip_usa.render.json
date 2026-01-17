@@ -1,0 +1,13 @@
+{
+  "modelFileName": "horizontal_grip.obj",
+  "extra": {
+    "modelScale": 0.7
+  },
+  "grip": {
+    "leftArmOffset": {
+      "x": 0.0,
+      "y": -0.015,
+      "z": 0.0
+    }
+  }
+}

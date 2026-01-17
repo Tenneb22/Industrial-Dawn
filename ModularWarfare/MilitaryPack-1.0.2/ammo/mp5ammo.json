@@ -1,0 +1,10 @@
+{
+    "internalName": "mp5ammo",
+    "displayName": "HK MP5 Mag 30rnd",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "9x19"
+    ],
+    "allowEmptyMagazines": true
+}

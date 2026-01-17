@@ -1,0 +1,19 @@
+{
+    "internalName": "afgan",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "Afgan Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "afgan",
+        "displayName": "Afgan - Default"
+      }
+    ]
+}

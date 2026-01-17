@@ -1,0 +1,15 @@
+{
+  "displayName": "Vertical Grip",
+  "internalName": "vertical_grip_usa",
+  "attachmentType": "grip",
+  "modelSkins": [
+    {
+      "skinAsset": "grips",
+      "displayName": "Vertical Grip - Default"
+    }
+  ],
+  "grip": {
+    "recoilPitchFactor": 0.35,
+    "recoilYawFactor": 0.1
+  }
+}

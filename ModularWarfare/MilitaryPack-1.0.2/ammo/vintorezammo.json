@@ -1,0 +1,10 @@
+{
+    "internalName": "vintorezammo",
+    "displayName": "VSS Vintorez Mag 10rnd",
+    "ammoCapacity": 10,
+    "magazineCount": 1,
+    "subAmmo": [
+        "9x39"
+    ],
+    "allowEmptyMagazines": true
+}

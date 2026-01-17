@@ -1,0 +1,16 @@
+{
+  "displayName": "ACOG",
+  "internalName": "acog",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "acog",
+      "displayName": "ACOG - Default"
+    }
+  ],
+  "sight": {
+	"scopeType": "default",
+    "customOverlayTexture": "acog",
+    "modeType": "pip"
+  }
+}

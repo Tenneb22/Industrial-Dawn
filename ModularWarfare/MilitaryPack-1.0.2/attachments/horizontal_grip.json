@@ -1,0 +1,15 @@
+{
+  "displayName": "Horizontal Grip",
+  "internalName": "horizontal_grip",
+  "attachmentType": "grip",
+  "modelSkins": [
+    {
+      "skinAsset": "grips",
+      "displayName": "Horizontal Grip - Default"
+    }
+  ],
+  "grip": {
+    "recoilPitchFactor": 0.1,
+    "recoilYawFactor": 0.35
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "internalName": "uniform",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "Uniform Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "uniform",
+        "displayName": "Uniform - Default"
+      }
+    ]
+}

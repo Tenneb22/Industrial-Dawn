@@ -1,0 +1,19 @@
+{
+    "internalName": "6b45",
+    "defense": "0.15",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "legs": 
+        {
+            "displayName": "6B45 Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "6b45",
+        "displayName": "6B45 - Default"
+      }
+    ]
+}

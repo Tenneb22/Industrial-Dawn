@@ -1,0 +1,11 @@
+{
+  "modelFileName": "elcan.obj",
+  "extra": {
+    "modelScale": 1.15
+  },
+  "sight": {
+    "fovZoom": 8.0,
+    "mouseSensitivityFactor": 0.2,
+    "rectileScale": 100.0
+  }
+}

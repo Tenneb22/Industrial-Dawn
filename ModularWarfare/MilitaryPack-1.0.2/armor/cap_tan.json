@@ -1,0 +1,19 @@
+{
+    "internalName": "cap_tan",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "Cap Tan"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "cap_tan",
+        "displayName": "Cap Tan - Default"
+      }
+    ]
+}

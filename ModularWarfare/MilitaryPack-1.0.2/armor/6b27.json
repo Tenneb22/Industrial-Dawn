@@ -1,0 +1,19 @@
+{
+    "internalName": "6b27",
+    "defense": "0.03",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "6B27"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "6b27",
+        "displayName": "6B27 - Default"
+      }
+    ]
+}

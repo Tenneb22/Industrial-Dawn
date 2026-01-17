@@ -1,0 +1,15 @@
+{
+  "displayName": "Kobra",
+  "internalName": "kobra",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "kobra",
+      "displayName": "Kobra - Default"
+    }
+  ],
+  "sight": {
+    "customOverlayTexture": "kobra",
+    "modeType": "normal"
+  }
+}

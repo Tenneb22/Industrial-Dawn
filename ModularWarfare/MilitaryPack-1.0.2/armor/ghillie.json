@@ -1,0 +1,19 @@
+{
+    "internalName": "ghillie",
+    "defense": "0.15",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "chest": 
+        {
+            "displayName": "Ghillie Chest"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "ghillie",
+        "displayName": "Ghillie - Default"
+      }
+    ]
+}

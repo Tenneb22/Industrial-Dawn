@@ -1,0 +1,16 @@
+{
+  "displayName": "Hawke Scope",
+  "internalName": "hawke",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "hawke",
+      "displayName": "Hawke Scope - Default"
+    }
+  ],
+  "sight": {
+	"scopeType": "default",
+    "customOverlayTexture": "hawke",
+    "modeType": "pip"
+  }
+}

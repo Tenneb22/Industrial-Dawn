@@ -1,0 +1,19 @@
+{
+    "internalName": "tank_nato",
+    "defense": "0.2",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "Tank NATO"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "tank_nato",
+        "displayName": "Tank NATO - Default"
+      }
+    ]
+}

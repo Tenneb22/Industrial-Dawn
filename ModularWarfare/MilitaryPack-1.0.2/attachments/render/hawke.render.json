@@ -1,0 +1,11 @@
+{
+  "modelFileName": "hawke.obj",
+  "extra": {
+    "modelScale": 1.25
+  },
+  "sight": {
+    "fovZoom": 8.0,
+    "mouseSensitivityFactor": 0.2,
+    "rectileScale": 75.0
+  }
+}

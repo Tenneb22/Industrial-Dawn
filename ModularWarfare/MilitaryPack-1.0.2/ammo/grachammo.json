@@ -1,0 +1,10 @@
+{
+    "internalName": "grachammo",
+    "displayName": "MP-443 Grach Mag 16rnd",
+    "ammoCapacity": 16,
+    "magazineCount": 1,
+    "subAmmo": [
+        "9x19"
+    ],
+    "allowEmptyMagazines": true
+}

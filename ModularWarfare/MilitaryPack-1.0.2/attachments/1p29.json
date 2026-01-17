@@ -1,0 +1,16 @@
+{
+  "displayName": "1P29",
+  "internalName": "1p29",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "1p29",
+      "displayName": "1P29 - Default"
+    }
+  ],
+  "sight": {
+	"scopeType": "default",
+    "customOverlayTexture": "1p29",
+    "modeType": "pip"
+  }
+}

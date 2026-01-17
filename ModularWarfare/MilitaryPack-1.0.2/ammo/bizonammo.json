@@ -1,0 +1,10 @@
+{
+    "internalName": "bizonammo",
+    "displayName": "PP-19 Bizon Mag 64rnd",
+    "ammoCapacity": 64,
+    "magazineCount": 1,
+    "subAmmo": [
+        "9x19"
+    ],
+    "allowEmptyMagazines": true
+}

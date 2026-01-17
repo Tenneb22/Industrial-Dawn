@@ -1,0 +1,15 @@
+{
+  "displayName": "7.62x54 Silencer",
+  "internalName": "762silencer_usa",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "762silencer_usa",
+      "displayName": "7.62x54 Silencer - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

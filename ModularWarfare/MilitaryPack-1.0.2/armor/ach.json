@@ -1,0 +1,19 @@
+{
+    "internalName": "ach",
+    "defense": "0.05",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "ACH"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "ucp",
+        "displayName": "ACH - Default"
+      }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "modelFileName": "kobra.obj",
+  "extra": {
+    "modelScale": 0.9
+  },
+  "sight": {
+    "fovZoom": 1.0,
+    "mouseSensitivityFactor": 0.2,
+    "rectileScale": 30.0
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "internalName": "ak74mammo",
+    "displayName": "AK-74M Mag 30rnd",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "5_45x39"
+    ],
+    "allowEmptyMagazines": true
+}

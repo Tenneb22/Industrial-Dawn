@@ -1,0 +1,16 @@
+{
+  "displayName": "Elcan",
+  "internalName": "elcan",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "elcan",
+      "displayName": "Elcan - Default"
+    }
+  ],
+  "sight": {
+	"scopeType": "default",
+    "customOverlayTexture": "elcan",
+    "modeType": "pip"
+  }
+}

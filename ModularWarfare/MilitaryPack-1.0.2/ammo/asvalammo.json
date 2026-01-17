@@ -1,0 +1,10 @@
+{
+    "internalName": "asvalammo",
+    "displayName": "AS-VAL Mag 20rnd",
+    "ammoCapacity": 20,
+    "magazineCount": 1,
+    "subAmmo": [
+        "9x39"
+    ],
+    "allowEmptyMagazines": true
+}

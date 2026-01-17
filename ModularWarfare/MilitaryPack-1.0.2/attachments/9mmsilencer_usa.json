@@ -1,0 +1,15 @@
+{
+  "displayName": "9mm Silencer",
+  "internalName": "9mmsilencer_usa",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "9mmsilencer",
+      "displayName": "9mm Silencer - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

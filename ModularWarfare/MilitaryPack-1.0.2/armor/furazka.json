@@ -1,0 +1,19 @@
+{
+    "internalName": "furazka",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "Furazka"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "furazka",
+        "displayName": "Furazka - Default"
+      }
+    ]
+}

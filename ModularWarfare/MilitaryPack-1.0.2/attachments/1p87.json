@@ -1,0 +1,15 @@
+{
+  "displayName": "1P87",
+  "internalName": "1p87",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "1p87",
+      "displayName": "Sniper Scope - Default"
+    }
+  ],
+  "sight": {
+    "customOverlayTexture": "holo",
+    "modeType": "normal"
+  }
+}

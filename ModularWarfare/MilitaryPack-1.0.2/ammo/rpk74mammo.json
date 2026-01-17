@@ -1,0 +1,10 @@
+{
+    "internalName": "rpk74mammo",
+    "displayName": "RPK-74M Mag 45rnd",
+    "ammoCapacity": 45,
+    "magazineCount": 1,
+    "subAmmo": [
+        "5_45x39"
+    ],
+    "allowEmptyMagazines": true
+}

@@ -1,0 +1,19 @@
+{
+    "internalName": "beret",
+    "defense": "0.01",
+    "durability": 500,
+    "armorTypes": 
+    {
+        "head": 
+        {
+            "displayName": "Beret"
+		}
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "beret",
+        "displayName": "Beret - Default"
+      }
+    ]
+}
