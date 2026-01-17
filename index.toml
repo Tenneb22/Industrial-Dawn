@@ -134,11 +134,6 @@ hash = "fa9df380bba4f7a73750b16021099e343e34cdd14cd983d570603718a1c4a501"
 metafile = true
 
 [[files]]
-file = "mods/techguns.pw.toml"
-hash = "d730582be01792322be74537304072413451df960fa3bd4e8ea4556ce3ddb536"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
