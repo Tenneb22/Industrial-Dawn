@@ -69,8 +69,18 @@ hash = "73ee822f3d0a45a96668ba4a11ef48a31337c2db7b94498f5c8cb1bc1c9acb1a"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
 file = "mods/jsv.pw.toml"
 hash = "f66a98abf4e0f9638196a44b0c8edec080a7c25839bf9f949128c9f70a9fd687"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
 metafile = true
 
 [[files]]
@@ -84,18 +94,13 @@ hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
-file = "mods/mcgltf.pw.toml"
-hash = "83b961eec06dadfad97d466399049bbab391ef3c2f343b0287e799ac3d8f771a"
-metafile = true
-
-[[files]]
 file = "mods/mixin-booter.pw.toml"
 hash = "ad355300f200ceabaa960dcef945cdf94195f8944dbe42ada2db41e153f209dc"
 metafile = true
 
 [[files]]
-file = "mods/modularwarfare.pw.toml"
-hash = "9c677256ee398777b58515bfbe8fadf8010c227dfec192dde55477e27a046648"
+file = "mods/modularwarfare-ultimate.pw.toml"
+hash = "b7fd81258a20959ec04ad9ff15b3efa5da08edda8a3d42b8c45cb7485cfad6ab"
 metafile = true
 
 [[files]]
