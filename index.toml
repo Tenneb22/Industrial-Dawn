@@ -2872,6 +2872,11 @@ hash = "f2ac4d4df892a41358f3e3a74a6af47853629eaa7e4ff1e00cfc17af649d0f53"
 metafile = true
 
 [[files]]
+file = "mods/flare.pw.toml"
+hash = "de273d83365a71eadb97eb0feb2f690e9678436601dfd0c85e7acc591829923f"
+metafile = true
+
+[[files]]
 file = "mods/fugue.pw.toml"
 hash = "01049ff49ed04e4f37d82babf97aed5c61e4fd1103b114c762e9eac1ec91ea3e"
 metafile = true
